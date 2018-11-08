@@ -1,0 +1,272 @@
+district_name	City 	County name
+A.C.E. Academy School District	Harrisburg	Cabarrus
+Alamance-Burlington School District	Burlington	Alamance
+Alexander County School District 	Taylorsville 	Alexander
+Alleghany County School District 	Sparta 	Alleghany
+Alpha Academy School District 	Fayetteville 	Cumberland
+American Renaissance School District 	Statesville 	Iredell
+Anderson Creek Club Charter School District 	Spring Lake 	Cumberland
+Anson County School District 	Wadesboro 	Anson
+Arapahoe Charter School School District 	Arapahoe 	Pamlico
+Aristotle Preparatory Academy School District 	Charlotte 	Mecklenburg
+Arts Based School District 	Winston-Salem 	Forsyth
+Artspace Charter School District 	Swannanoa 	Buncombe
+Ashe County School District 	Jefferson 	Ashe
+Asheboro City School District 	Asheboro 	Randolph
+Asheville City School District 	Asheville 	Buncombe
+Avery County School District 	Newland 	Avery
+Bear Grass Charter School District 	Williamston 	Martin
+Beaufort County School District 	Washington 	Beaufort
+Bertie County School District 	Windsor 	Bertie
+Bethany Community Middle School District 	Reidsville 	Rockingham
+Bethel Hill Charter School District 	Roxboro 	Person
+Bladen County School District 	Elizabethtown 	Bladen
+Bradford Preparatoryschool District 	Charlotte 	Cabarrus
+Brevard Academy School District 	Brevard 	Transylvania
+Bridges Charter School District 	State Road 	Wilkes
+Brunswick County School District 	Bolivia 	Brunswick
+Buncombe County Schools 	Asheville 	Buncombe
+Burke County School District 	Morganton 	Burke
+Cabarrus Charter Academy School District 	Concord 	Cabarrus
+Cabarrus County School District 	Concord 	Cabarrus
+Caldwell County School District 	Lenoir 	Caldwell
+Camden County School District 	Camden 	Camden
+Cape Fear Center For Inquiry School District 	Wilmington 	New Hanover
+Cardinal Charter School District 	Cary 	Wake
+Carolina International School District 	Harrisburg 	Cabarrus
+Carter Community Charter School District 	Durham 	Durham
+Carter G Woodson School District 	Winston-Salem 	Forsyth
+Carteret County Public School District 	Beaufort 	Carteret
+Casa Esperanza Montessori School District 	Raleigh 	Wake
+Caswell County School District 	Yanceyville 	Caswell
+Catawba County School District 	Newton 	Catawba
+Central Park School For Children School District 	Durham 	Durham
+Chapel Hill-Carrboro City School District 	Chapel Hill 	Orange
+Charlotte Choice Charter School District 	Charlotte 	Mecklenburg
+Charlotte Learning Academy School District 	Charlotte 	Mecklenburg
+Charlotte Secondary School District 	Charlotte 	Mecklenburg
+Charlotte-Mecklenburg School District 	Charlotte 	Mecklenburg
+Charter Day School District 	Leland 	Brunswick
+Chatham Charter School District 	Siler City 	Chatham
+Chatham County School District 	Pittsboro 	Chatham
+Cherokee County School District 	Murphy 	Cherokee
+Children's Village Academy School District 	Kinston 	Lenoir
+Cis Academy School District 	Pembroke 	Robeson
+Clay County School District 	Hayesville 	Clay
+Cleveland County School District 	Shelby 	Cleveland
+Clinton City School District 	Clinton 	Sampson
+Clover Garden School District 	Burlington 	Alamance
+Coastal Academy For Technology & Science School District 	Morehead City 	Carteret
+Columbus Charter School District 	Whiteville 	Columbus
+Columbus County School District 	Whiteville 	Columbus
+Commonwealth High School District 	Charlotte 	Mecklenburg
+Community Charter School District 	Charlotte 	Mecklenburg
+Community School Of Davidson School District 	Davidson 	Mecklenburg
+Cornerstone Charter Academy School District 	Greensboro 	Guilford
+Corvian Community School District 	Charlotte 	Mecklenburg
+Craven County School District 	New Bern 	Craven
+Crosscreek Charter School District 	Louisburg 	Franklin
+Crossnore Academy School District 	Crossnore 	Avery
+Crossroads Charter High School District 	Charlotte 	Mecklenburg
+Cumberland County School District 	Fayetteville 	Cumberland
+Currituck County School District 	Currituck 	Currituck
+Dare County School District 	Nags Head 	Dare
+Davidson County School District 	Lexington 	Davidson
+Davie County School District 	Mocksville 	Davie
+Deaf And Blind School District 	Raleigh 	Wake
+Dillard Academy School District 	Goldsboro 	Wayne
+Douglass Academy School District 	Wilmington 	New Hanover
+Duplin County School District 	Kenansville 	Duplin
+Durham Public School District 	Durham 	Durham
+Dynamic Community Charter School District 	Raleigh 	Wake
+East Wake Academy School District 	Zebulon 	Wake
+Edenton-Chowan School District 	Edenton 	Chowan
+Edgecombe County Public School District 	Tarboro 	Edgecombe
+Elizabeth City-Pasquotank Public School District 	Elizabeth City 	Pasquotank
+Elkin City School District 	Elkin 	Surry
+Endeavor Charter School District 	Raleigh 	Wake
+Envision Science Academy School District 	Raleigh 	Wake
+Evergreen Community Charter School District 	Asheville 	Buncombe
+Exploris Middle School District 	Raleigh 	Wake
+Falls Lake Academy School District 	Creedmoor 	Granville
+Flemington Academy School District 	Lake Waccamaw 	Columbus
+Forsyth Academy School District 	Winston-Salem 	Forsyth
+Fort Bragg & Camp Lejeune School District 	Fort Bragg 	Cumberland
+Francine Delany New School District 	Asheville 	Buncombe
+Franklin Academy School District 	Wake Forest 	Wake
+Franklin County School District 	Louisburg 	Franklin
+Gaston College Preparatory School District 	Gaston 	Northampton
+Gaston County School District 	Gastonia 	Gaston
+Gates County School District 	Gatesville 	Gates
+Global Scholars Academy School District 	Durham 	Durham
+Graham County School District 	Robbinsville 	Graham
+Grandfather Academy School District 	Banner Elk 	Watauga
+Granville County School District 	Oxford 	Granville
+Gray Stone Day School District 	Misenheimer 	Stanly
+Greene County School District 	Snow Hill 	Greene
+Greensboro Academy School District 	Greensboro 	Guilford
+Guilford County School District 	Greensboro 	Guilford
+Guilford Preparatory Academy School District 	Greensboro 	Guilford
+Halifax County School District 	Halifax 	Halifax
+Haliwa-Saponi Tribal School District 	Hollister 	Halifax
+Harnett County School District 	Lillington 	Harnett
+Haywood County School District 	Waynesville 	Haywood
+Healthy Start Academy School District 	Durham 	Durham
+Henderson Collegiate School District 	Henderson 	Vance
+Henderson County School District 	Hendersonville 	Henderson
+Heritage Collegiate Leadership Academy School District 	Windsor 	Bertie
+Hertford County School District 	Winton 	Hertford
+Hickory City School District 	Hickory 	Catawba
+Hoke County School District 	Raeford 	Hoke
+Hope Elementary Charter School District 	Raleigh 	Wake
+Howard & Lillian Lee Scholars School District 	Raleigh 	Wake
+Hyde County School District 	Swan Quarter 	Hyde
+Invest Collegiate (Buncombe) School District 	Asheville 	Mecklenburg
+Invest Collegiate School District 	Charlotte 	Mecklenburg
+Iredell-Statesville School District 	Statesville 	Iredell
+Island Montessori Charter School District 	Wilmington 	New Hanover
+Jackson County School District 	Sylva 	Jackson
+Johnston County School District 	Smithfield 	Johnston
+Jones County School District 	Trenton 	Jones
+Kannapolis City School District 	Kannapolis 	Cabarrus
+Kennedy Charter School District 	Charlotte 	Mecklenburg
+Kestrel Heights School District 	Durham 	Durham
+KIPP Halifax College Preparatory School District 	Roanoke Rapids 	Halifax
+Kipp: Charlotte School District 	Charlotte 	Mecklenburg
+Lake Lure Classical Academy School District 	Lake Lure 	Rutherford
+Lake Norman Charter School District 	Huntersville 	Mecklenburg
+Langtree Charter Academyschool District 	Mooresville 	Iredell
+Lee County School District 	Sanford 	Lee
+Lenoir County Public School District 	Kinston 	Lenoir
+Lexington City School District 	Lexington 	Davidson
+Lincoln Charter School District 	Denver 	Lincoln
+Lincoln County School District 	Lincolnton 	Lincoln
+Longleaf School Of The Arts 	Raleigh 	Wake
+Macon County School District 	Franklin 	Macon
+Madison County School District 	Marshall 	Madison
+Magellan Charter School District 	Raleigh 	Wake
+Martin County School District 	Williamston 	Martin
+Maureen Joy Charter School District 	Durham 	Durham
+Mcdowell County School District 	Marion 	Mcdowell
+Metrolina Regional Scholars Academy School District 	Charlotte 	Mecklenburg
+Millennium Charter Academy School District 	Mount Airy 	Surry
+Mitchell County School District 	Bakersville 	Mitchell
+Montgomery County School District 	Troy 	Montgomery
+Moore County School District 	Carthage 	Moore
+Mooresville Graded School District 	Mooresville 	Iredell
+Mount Airy City School District 	Mount Airy 	Surry
+Mountain Discovery Charter School District 	Bryson City 	Swain
+Mountain Island Charter School District 	Mt. Holly 	Gaston
+Nash-Rocky Mount School District 	Nashville 	Nash
+Nc Health And Human Services School District 	Raleigh 	Wake
+Nc Virtual Public School District 	Raleigh 	Wake
+Neuse Charter School District 	Smithfield 	Johnston
+New Hanover County School District 	Wilmington 	New Hanover
+Newton-Conover City School District 	Newton 	Catawba
+North East Carolina Preparatory School District 	Tarboro 	Edgecombe
+Northampton County School District 	Jackson 	Northampton
+Northeast Regional School - Biotech&Agri School District 	Plymouth 	Washington
+Onslow County School District 	Jacksonville 	Onslow
+Orange Charter School District 	Hillsborough 	Orange
+Orange County School District 	Hillsborough 	Orange
+Oxford Preparatory High School District 	Oxford 	Granville
+Pace Academy School District 	Carrboro 	Orange
+Pamlico County School District 	Bayboro 	Pamlico
+Paul R. Brown Leadership Academy School District 	Elizabethtown 	Bladen
+Pender County School District 	Burgaw 	Pender
+Perquimans County School District 	Hertford 	Perquimans
+Person County School District 	Roxboro 	Person
+Phoenix Academy Inc School District 	High Point 	Guilford
+Piedmont Community Charter School District 	Gastonia 	Gaston
+Pine Lake Preparatory School District 	Mooresville 	Iredell
+Pinnacle Classical Academy School District 	Shelby 	Cleveland
+Pioneer Springs Community School District 	Charlotte 	Mecklenburg
+Pitt County School District 	Greenville 	Pitt
+Polk County School District 	Columbus 	Polk
+Preeminent Charter School District 	Raleigh 	Wake
+Public School District Of Robeson County 	Lumberton 	Robeson
+Quality Education Academy School District 	Winston-Salem 	Forsyth
+Queens Grant Community School District 	Mint Hill 	Mecklenburg
+Quest Academy School District 	Raleigh 	Wake
+Raleigh Charter High School District 	Raleigh 	Wake
+Randolph County School District 	Asheboro 	Randolph
+Reaching All Minds Academy School District 	Durham 	Durham
+Research Triangle Charter School District 	Durham 	Durham
+Research Triangle High School District 	Research Triangle Pk 	Durham
+Richmond County School District 	Hamlet 	Richmond
+River Mill Academy School District 	Graham 	Alamance
+Roanoke Rapids City School District 	Roanoke Rapids 	Halifax
+Rockingham County School District 	Eden 	Rockingham
+Rocky Mount Preparatory School District 	Rocky Mount 	Nash
+Rowan-Salisbury School District 	Salisbury 	Rowan
+Roxboro Community School District 	Roxboro 	Person
+Rutherford County School District 	Forest City 	Rutherford
+Sallie B Howard School District 	Wilson 	Wilson
+Sampson County School District 	Clinton 	Sampson
+Sandhills Theatre Arts Renaiss School District 	Vass 	Moore
+Scotland County School District 	Laurinburg 	Scotland
+Socrates Academy School District 	Matthews 	Mecklenburg
+South Brunswick Charter School District 	Southport 	Brunswick
+Southeastern Academy School District 	Lumberton 	Robeson
+Southern Wake Academy School District 	Holly Springs 	Wake
+Stanly County School District 	Albemarle 	Stanly
+Stem Education For A Global Society Acad School District 	Delco 	Columbus
+Sterling Montessori Academy School District 	Morrisville 	Wake
+Stewart Creek High School District 	Charlotte 	Mecklenburg
+Stokes County School District 	Danbury 	Stokes
+Studentfirst Academy School District 	Charlotte 	Mecklenburg
+Success Charter School District 	Statesville 	Iredell
+Sugar Creek Charter School District 	Charlotte 	Mecklenburg
+Summerfield Charter Academy School District 	Summerfield 	Guilford
+Summit Charter School District 	Cashiers 	Jackson
+Surry County School District 	Dobson 	Surry
+Swain County School District 	Bryson City 	Swain
+The Academy Of Moore County 	Aberdeen 	Moore
+The Capitol Encore Academy School District 	Fayetteville 	Cumberland
+The College Preparatory And Leadership A School District 	Greensboro 	Guilford
+The Expedition School District 	Hillsborough 	Orange
+The Franklin School Of Innovation School District 	Asheville 	Buncombe
+The Hawbridge School District 	Saxapahaw 	Alamance
+The Institute For The Development Of You School District 	Durham 	Durham
+The Learning Center School District 	Murphy 	Cherokee
+The Mountain Community School District 	Hendersonville 	Henderson
+The New Dimensions School District 	Morganton 	Burke
+The Steam Academy Of Winston Salem School District 	Winston-Salem 	Forsyth
+Thomas Jefferson Classical Academy School District 	Mooresboro 	Rutherford
+Thomasville City School District 	Thomasville 	Davidson
+Thunderbird Preparatory School District 	Cornelius 	Mecklenburg
+Tiller School District 	Beaufort 	Carteret
+Torchlight Academy School District 	Raleigh 	Wake
+Transylvania County School District 	Brevard 	Transylvania
+Triad Math And Science Academy School District 	Greensboro 	Guilford
+Triangle Math And Science Academy School District 	Raleigh 	Wake
+Two Rivers Community School District 	Boone 	Watauga
+Tyrrell County School District 	Columbia 	Tyrrell
+Union Academy Charter School District 	Monroe 	Union
+Union County Public School District 	Monroe 	Union
+United Community School District 	Charlotte 	Mecklenburg
+Uwharrie Charter Academy School District 	Asheboro 	Randolph
+Vance Charter School District 	Henderson 	Vance
+Vance County School District 	Henderson 	Vance
+Voyager Academy School District 	Durham 	Durham
+Wake County School District 	Cary 	Wake
+Wake Forest Charter Academy School District 	Wake Forest 	Wake
+Warren County School District 	Warrenton 	Warren
+Washington County School District 	Plymouth 	Washington
+Washington Montessori School District 	Washington 	Beaufort
+Watauga County School District 	Boone 	Watauga
+Water's Edge Village School District 	Corolla 	Currituck
+Wayne County Public School District 	Goldsboro 	Wayne
+Wayne Preparatory School District 	Goldsboro 	Wayne
+Weldon City School District 	Weldon 	Halifax
+Whiteville City School District 	Whiteville 	Columbus
+Wilkes County School District 	North Wilkesboro 	Wilkes
+Willow Oak Montessori School District 	Chapel Hill 	Chatham
+Wilmington Preparatory Academy School District 	Wilmington 	New Hanover
+Wilson County School District 	Wilson 	Wilson
+Wilson Preparatory Academy School District 	Wilson 	Wilson
+Winston Salem & Forsyth County School District 	Winston Salem 	Forsyth
+Woods Charter School District 	Chapel Hill 	Chatham
+Yadkin County School District 	Yadkinville 	Yadkin
+Yancey County School District 	Burnsville 	Yancey
+Z.E.C.A. School Of Arts And Technology School District 	Jacksonville 	Onslow 

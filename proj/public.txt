@@ -1,0 +1,140 @@
+school_prefix_number	district_name	phone
+010	Alamance-Burlington Schools	(336) 570-6060
+020	Alexander County Schools	(828) 632-7001
+030	Alleghany County Schools	(336) 372-4345
+040	Anson County Schools	(704) 694-4417
+050	Ashe County Schools	(336) 246-7175
+060	Avery County Schools	(828) 733-6006
+070	Beaufort County Schools	(252) 946-6593
+080	Bertie County Schools 	(252) 794-6025
+090	Bladen County Schools 	(910) 862-4136
+100	Brunswick County Schools	(910) 253-2900
+110	Buncombe County Schools 	(828) 232-4160
+111	Asheville City Schools	(828) 350-7000
+120	Burke County Schools	(828) 439-4311
+130	Cabarrus County Schools	(704) 786-6191
+132	Kannapolis City Schools	(704) 938-1131
+140	Caldwell County Schools	(828) 728-8407
+150	Camden County Schools	(252) 335-0831
+160	Carteret County Public Schools	(252) 728-4583
+170	Caswell County Schools	(336) 694-4116
+180	Catawba County Schools	(828) 464-8333
+181	Hickory City Schools	(828) 322-2855
+182	Newton Conover City Schools	(828) 464-3191
+190	Chatham County Schools	(919) 542-3626
+200	Cherokee County Schools	(828) 837-2722
+210	Edenton-Chowan Schools	(252) 482-4436
+220	Clay County Schools	(828) 389-8513
+230	Cleveland County Schools	(704) 476-8000
+240	Columbus County Schools	(910) 642-5168
+241	Whiteville City Schools	(910) 642-4116
+250	Craven County Schools	(252) 514-6300
+260	Cumberland County Schools	(910) 678-2300
+270	Currituck County Schools	(252) 232-2223
+280	Dare County Schools	(252) 480-8888
+290	Davidson County Schools	(336) 249-8181
+291	Lexington City Schools	(336) 242-1527
+292	Thomasville City Schools	(336) 474-4200
+300	Davie County Schools	(336) 751-5921
+310	Duplin County Schools	(910) 296-1521
+320	Durham Public Schools	(919) 560-3749
+330	Edgecombe County Public Schools	(252) 641-2600
+340	Winston Salem/Forsyth County Schools	(336) 727-2816
+350	Franklin County Schools	(919) 496-2600
+360	Gaston County Schools	(704) 866-6100
+370	Gates County Schools 	(252) 357-1113
+380	Graham County Schools	(828) 479-9820
+390	Granville County Schools	(919) 693-4613
+400	Greene County Schools 	(252) 747-3425
+410	Guilford County Schools	(336) 370-8100
+420	Halifax County Schools 	(252) 583-5111
+421	Roanoke Rapids City Schools	(252) 519-7100
+422	Weldon City Schools	(252) 536-4821
+430	Harnett County Schools	(910) 893-8151
+440	Haywood County Schools	(828) 456-2400
+450	Henderson County Schools	(828) 697-4733
+460	Hertford County Schools	(252) 358-1761
+470	Hoke County Schools	(910) 875-4106
+480	Hyde County Schools	(252) 926-3281
+490	Iredell-Statesville Schools	(704) 872-8931
+491	Mooresville Graded School District	(704) 658-2530
+500	Jackson County Schools	(828) 586-2311
+510	Johnston County Schools	(919) 934-6031
+520	Jones County Schools	(252) 448-2531
+530	Lee County Schools	(919) 774-6226
+540	Lenoir County Public Schools	(252) 527-1109
+550	Lincoln County Schools	(704) 732-2261
+560	Macon County Schools	(828) 524-3314
+570	Madison County Schools	(828) 649-9276
+580	Martin County Schools	(252) 792-1575
+590	McDowell County Schools	(828) 652-4535
+600	Charlotte-Mecklenburg Schools	(980) 343-6270
+610	Mitchell County Schools	(828) 766-2220
+620	Montgomery County Schools	(910) 576-6511
+630	Moore County Schools	(910) 947-2976
+640	Nash-Rocky Mount Schools	(252) 459-5220
+650	New Hanover County Schools	(910) 254-4200
+660	Northampton County Schools	(252) 534-1371
+670	Onslow County Schools	(910) 455-2211
+680	Orange County Schools	(919) 732-8126
+681	Chapel Hill-Carrboro City Schools	(919) 967-8211
+690	Pamlico County Schools	(252) 745-4171
+700	Elizabeth City-Pasquotank Public Schools	(252) 335-2981
+710	Pender County Schools	(910) 259-2187
+720	Perquimans County Schools	(252) 426-5741
+730	Person County Schools	(336) 599-2191
+740	Pitt County Schools	(252) 830-4200
+750	Polk County Schools	(828) 894-3051
+760	Randolph County Schools	(336) 318-6100
+761	Asheboro City Schools	(336) 625-5104
+770	Richmond County Schools	(910) 582-5860
+780	Public Schools of Robeson County	(910) 671-6000
+790	Rockingham County Schools	(336) 627-2600
+800	Rowan-Salisbury Schools	(704) 636-7500
+810	Rutherford County Schools	(828) 288-2200
+820	Sampson County Schools	(910) 592-1401
+821	Clinton City Schools	(910) 592-3132
+830	Scotland County Schools	(910) 276-1138
+840	Stanly County Schools	(704) 961-3000
+850	Stokes County Schools	(336) 593-8146
+860	Surry County Schools	(336) 386-8211
+861	Elkin City Schools	(336) 835-3135
+862	Mount Airy City Schools	(336) 786-8355
+870	Swain County Schools	(828) 488-3129
+880	Transylvania County Schools	(828) 884-6173
+890	Tyrrell County Schools	(252) 796-1121
+900	Union County Public Schools	(704) 296-9898
+910	Vance County Schools	(252) 492-2127
+920	Wake County Schools	(919) 431-7400
+930	Warren County Schools	(252) 257-3184
+940	Washington County Schools	(252) 793-5171
+950	Watauga County Schools	(828) 264-7190
+960	Wayne County Public Schools	(919) 731-5900
+970	Wilkes County Schools	(336) 667-1121
+980	Wilson County Schools	(252) 399-7700
+990	Yadkin County Schools	(336) 679-2051
+995	Yancey County Schools	(828) 682-6101
+209	Cherokee Central Schools	(828) 497-6370
+269	Fort Bragg	(910) 907-0200
+679	Camp Lejeune	(910) 451-2461
+295	Innovative School District	
+298	Deaf & Blind Schools	
+299	NC Virtual Public School	
+486	Governor's Teacher Network	
+209	Cherokee Central	
+269	Fort Bragg	
+679	Camp Lejeune	
+996	Division of Prisons	
+997	DHHS	
+998	Dept. of Juvenile Justice	
+34Z	ASU Academy Middle Fork	
+50Z	Catamount School	
+65Z	DC Virgo Prep Academy	
+74Z	ECU Lab School	
+79Z	Moss St Partnership	
+94Z	NE Regional Biotech/Agri	
+00A	NC Connections Academy	
+00B	NC Virtual Academy	
+60H	Crossroads Charter High District	
+60A	Community Charter School District
+60C	Kennedy Charter School District	

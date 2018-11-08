@@ -1,0 +1,2616 @@
+school_code	grade_span	school_name
+010303	09-12	Alamance-Burlington Middle College
+010304	PK-05	Alexander Wilson Elementary
+010308	0K-05	Altamahaw Ossipee Elem
+010310	06-08	Broadview Middle
+010312	0K-05	Highland Elementary
+010320	PK-05	E M Yoder Elementary
+010324	09-12	Eastern Alamance High
+010326	PK-05	Eastlawn Elementary
+010328	0K-05	Edwin M Holt Elementary
+010340	PK-05	Elon Elementary
+010346	0K-05	B Everett Jordan Elem
+010347	0K-05	Garrett Elementary
+010348	09-12	Graham High
+010350	06-08	Graham Middle
+010351	PK-05	Grove Park Elementary
+010353	06-08	Hawfields Middle
+010354	PK-05	Harvey R Newlin Elementary
+010357	PK-05	Haw River Elementary
+010358	PK-05	Hillcrest Elementary
+010360	09-12	Hugh M Cummings High
+010362	PK-05	Marvin B Smith Elementary
+010364	PK-05	North Graham Elementary
+010372	PK-05	Pleasant Grove Elementary
+010374	PK-05	R Homer Andrews Elementary
+010378	0K-12	Ray Street Academy
+010380	PK-05	South Graham Elementary
+010384	PK-05	South Mebane Elementary
+010388	09-12	Southern High
+010390	06-08	Southern Middle
+010392	PK-05	Sylvan Elementary
+010394	06-08	Turrentine Middle
+010396	09-12	Walter M Williams High
+010400	09-12	Western Alamance High
+010403	06-08	Western Middle
+010406	06-08	Woodlawn Middle
+010LEA		Alamance-Burlington Schools
+01B000	0K-12	River Mill Academy
+01C000	0K-12	Clover Garden
+01D000	06-12	The Hawbridge School
+020302	09-12	Alexander Central High
+020304	0K-05	Bethlehem Elementary
+020306	06-08	East Alexander Middle
+020308	PK-05	Ellendale Elementary
+020316	0K-05	Hiddenite Elementary
+020320	0K-05	Stony Point Elementary
+020324	0K-05	Sugar Loaf Elementary
+020328	0K-05	Taylorsville Elementary
+020330	06-08	West Alexander Middle
+020332	0K-05	Wittenburg Elementary
+020LEA		Alexander County Schools
+030304	09-12	Alleghany High
+030308	PK-08	Glade Creek Elementary
+030316	PK-08	Piney Creek Elementary
+030320	PK-08	Sparta Elementary
+030LEA		Alleghany County Schools
+040304	09-13	Anson Co. Early College High
+040305	06-12	Anson Academy
+040306	09-12	Anson High School
+040308	PK-06	Ansonville Elementary
+040309	07-08	Anson Middle
+040311	PK-03	Wadesboro Primary
+040316	PK-06	Lilesville Elementary
+040324	PK-06	Morven Elementary
+040328	PK-06	Peachland-Polkton Elem
+040330	04-06	Wadesboro Elementary
+040700	09-12	Anson New Tech High
+040LEA		Anson County Schools
+050302	09-12	Ashe County High
+050305	07-08	Ashe County Middle
+050310	PK-06	Blue Ridge Elementary
+050330	PK-06	Mountain View Elementary
+050335	PK-06	Westwood Elementary
+050LEA		Ashe County Schools
+060302	09-12	Avery County High
+060304	PK-05	Banner Elk Elementary
+060310	06-08	Cranberry Middle
+060316	PK-05	Crossnore Elementary
+060318	06-08	Avery Middle
+060322	PK-05	Freedom Trail Elementary
+060328	PK-05	Newland Elementary
+060332	PK-05	Riverside Elementary
+060334	06-12	Blue Ridge Academy
+060700	09-12	Avery High STEM Academy
+060701	09-12	Avery High Viking Academy
+060LEA		Avery County Schools
+06A000	01-12	Grandfather Academy
+06B000	0K-12	Crossnore Academy
+070308	0K-08	Bath Elementary
+070310	06-12	B C Ed Tech Center
+070311	09-13	Beaufort Co Early College High
+070325	05-08	Chocowinity Middle
+070326	PK-04	Chocowinity Primary
+070327	02-03	John C Tayloe Elementary
+070328	04-05	John Small Elementary
+070329	PK-08	Northeast Elementary
+070330	09-12	Northside High
+070338	06-08	P S Jones Middle
+070339	09-12	Southside High
+070340	PK-08	S W Snowden Elementary
+070342	09-12	Washington High
+070LEA		Beaufort County Schools
+07A000	0K-08	Washington Montessori
+080311	09-13	Bertie Early College High
+080312	09-12	Bertie High
+080314	06-08	Bertie Middle
+080348	PK-05	Aulander Elementary
+080356	PK-05	West Bertie Elementary
+080360	PK-05	Colerain Elementary
+080362	PK-05	Windsor Elementary
+080700	09-12	Bertie STEM High
+080LEA		Bertie County Schools
+090304	PK-05	B T Washington Primary
+090315	05-08	Bladenboro Middle
+090317	PK-04	Bladenboro Primary
+090318	PK-04	Bladen Lakes Primary
+090320	06-08	Clarkton School of Discovery
+090324	PK-04	Dublin Primary
+090328	0K-08	East Arcadia Elementary
+090330	09-12	East Bladen High
+090332	05-08	Elizabethtown Middle
+090333	PK-04	Elizabethtown Primary
+090352	PK-04	Plain View Primary
+090365	05-08	Tar Heel Middle
+090368	09-12	West Bladen High
+090LEA		Bladen County Schools
+100302	PK-05	Belville Elementary
+100304	0K-05	Bolivia Elementary
+100307	09-13	Brunswick County Early College
+100308	06-12	Brunswick County Academy
+100309	06-08	Cedar Grove Middle
+100310	0K-05	Jessie Mae Monroe Elementary
+100316	06-08	Leland Middle
+100320	0K-05	Lincoln Elementary
+100326	09-12	North Brunswick High
+100332	06-08	Shallotte Middle
+100334	09-12	South Brunswick High
+100335	06-08	South Brunswick Middle
+100336	0K-05	Southport Elementary
+100338	PK-05	Supply Elementary
+100339	PK-05	Town Creek Elementary
+100340	0K-05	Union Elementary
+100342	0K-05	Virginia Williamson Elem
+100344	0K-08	Waccamaw
+100348	09-12	West Brunswick High
+100LEA		Brunswick County Schools
+10A000	0K-08	Charter Day School
+110303	09-12	Community High School
+110304	09-12	Reynolds High
+110306	06-08	Reynolds Middle
+110308	0K-04	Barnardsville Elementary
+110318	04-05	Black Mountain Elementary
+110320	0K-03	Black Mountain Primary
+110322	09-13	Buncombe County Early College
+110323	11-12	Buncombe County Middle College
+110324	0K-05	Candler Elementary
+110326	06-08	Cane Creek Middle
+110332	0K-05	Bell Elementary
+110336	09-12	Owen High
+110338	06-08	Owen Middle
+110340	09-12	Erwin High
+110342	07-08	Erwin Middle
+110348	0K-04	Emma Elementary
+110352	09-12	Enka High
+110356	0K-05	Fairview Elementary
+110366	0K-04	Glen Arden Elementary
+110368	0K-05	Haw Creek Elementary
+110370	0K-05	Hominy Valley Elementary
+110372	0K-04	Johnston Elementary
+110376	0K-04	Leicester Elementary
+110379	0K-04	North Buncombe Elementary
+110380	09-12	North Buncombe High
+110381	07-08	North Buncombe Middle
+110382	05-06	North Windy Ridge Intermediate
+110384	0K-05	Oakley Elementary
+110388	0K-05	Pisgah Elementary
+110401	06-08	Enka Middle
+110408	0K-05	Sand Hill-Venable Elem
+110410	0K-04	Avery's Creek Elementary
+110412	0K-05	Williams Elementary
+110416	09-12	Roberson High
+110420	06-08	Valley Springs Middle
+110422	0K-05	Estes Elementary
+110428	02-04	Weaverville Elementary
+110436	0K-04	West Buncombe Elementary
+110444	0K-04	Woodfin Elementary
+110450	05-06	Koontz Intermediate
+110451	05-06	Eblen Intermediate
+110LEA		Buncombe County Schools
+111302	09-12	Asheville High
+111304	0K-05	Hall Fletcher Elementary
+111306	0K-05	Isaac Dickson Elementary
+111312	0K-05	Claxton Elementary
+111332	0K-05	Ira B Jones Elementary
+111356	06-08	Asheville Middle
+111360	0K-05	Vance Elementary
+111700	09-12	School of Inquiry and Life Sciences
+111LEA		Asheville City Schools
+11A000	0K-08	Evergreen Community Charter
+11B000	0K-08	ArtSpace Charter
+11K000	0K-08	Francine Delany New School
+120304	PK-05	Chesterfield Elementary
+120308	06-12	Hallyburton Academy
+120312	PK-05	Drexel Elementary
+120314	09-12	East Burke High
+120315	06-08	East Burke Middle
+120316	PK-05	Forest Hill Elementary
+120318	09-12	Freedom High
+120320	PK-05	George Hildebrand Elementary
+120324	PK-05	Glen Alpine Elementary
+120334	06-08	Heritage Middle
+120338	PK-05	Hildebran Elementary
+120340	PK-05	Mountain Crest Elementary
+120344	PK-05	Icard Elementary
+120346	09-12	Jimmy C Draughn High School
+120350	06-08	Liberty Middle
+120352	SP-ED	North Liberty
+120360	PK-05	Mull Elementary
+120364	PK-05	Oak Hill Elementary
+120368	PK-05	Ray Childers Elementary
+120370	09-12	Robert L. Patton High School
+120372	PK-05	Rutherford College Elem
+120374	PK-05	Salem Elementary
+120376	06-08	Table Rock Middle
+120380	PK-05	Valdese Elementary
+120386	PK-05	W A Young Elementary
+120390	06-08	Walter R Johnson Middle
+120LEA		Burke County Schools
+12A000	0K-07	New Dimensions
+130304	0K-05	A T Allen Elementary
+130307	09-12	Cox Mill High School
+130308	0K-05	Bethel Elementary
+130309	0K-05	Beverly Hills Elementary
+130310	09-12	Central Cabarrus High
+130311	PK-05	Coltrane-Webb Elementary
+130312	0K-05	Harrisburg Elementary
+130313	06-08	Concord Middle
+130314	09-12	Concord High
+130315	06-08	J N Fries Magnet School
+130316	09-12	Jay M Robinson High
+130317	06-12	Cabarrus Co Opportunity Sch
+130318	06-08	C C Griffin Middle
+130319	0K-05	Cox Mill Elementary
+130320	06-08	Harris Road Middle
+130321	0K-05	Carl A Furr Elementary
+130322	0K-05	Mount Pleasant Elementary
+130323	06-08	Mount Pleasant Middle
+130324	09-12	Mount Pleasant High
+130325	0K-05	Charles E Boger Elementary
+130326	09-12	Northwest Cabarrus High
+130327	06-08	Northwest Cabarrus Middle
+130328	0K-05	Royal Oaks Elementary
+130329	0K-05	Rocky River Elementary
+130330	0K-05	R Brown McAllister Elementary
+130331	0K-05	Pitts School Road Elementary
+130332	09-12	Hickory Ridge High
+130333	09-12	Performance Learning Center
+130336	0K-05	W R Odell Elementary
+130338	0K-05	Weddington Hills Elementary
+130340	0K-05	Winecoff Elementary
+130342	PK-05	W M Irvin Elementary
+130344	0K-05	Wolf Meadow Elementary
+130345	0K-05	Patriots Elementary
+130346	06-08	Hickory Ridge Middle
+130350	09-13	Cabarrus-Kannapolis Early Coll
+130355	06-08	Harold E. Winkler Middle
+130LEA		Cabarrus County Schools
+132304	09-12	A L Brown High
+132308	0K-04	Forest Park Elementary
+132312	PK-04	Fred L Wilson Elementary
+132328	0K-04	Jackson Park Elementary
+132329	05-06	Kannapolis Interm
+132330	07-08	Kannapolis Middle
+132332	0K-04	Shady Brook Elementary
+132336	PK-04	Woodrow Wilson Elementary
+132LEA		Kannapolis City Schools
+13A000	0K-10	Carolina International School
+140304	0K-05	Baton Elementary
+140305	09-12	Caldwell Career Cen Mid. Coll.
+140306	06-12	Caldwell Co Gateway Sch
+140307	0K-05	Horizons Elementary
+140308	0K-08	Collettsville School
+140309	09-13	Caldwell Early College
+140312	0K-05	Davenport A+ School
+140316	PK-05	Dudley Shoals Elementary
+140324	PK-05	Gamewell Elementary
+140332	06-08	Gamewell Middle
+140336	06-08	Granite Falls Middle
+140340	0K-05	Granite Falls Elementary
+140344	0K-08	Happy Valley Elementary
+140348	09-12	Hibriten High
+140352	PK-05	Hudson Elementary
+140356	06-08	Hudson Middle
+140360	PK-08	Kings Creek Elementary
+140368	06-08	William Lenoir Middle
+140372	0K-05	Lower Creek Elementary
+140376	0K-08	Oak Hill Elementary
+140384	0K-05	Sawmills Elementary
+140386	09-12	South Caldwell High
+140388	PK-05	Valmead Elementary
+140390	09-12	West Caldwell High
+140392	0K-05	West Lenoir Elementary
+140396	PK-05	Whitnel Elementary
+140LEA		Caldwell County Schools
+150304	09-12	Camden County High
+150308	0K-03	Grandy Primary
+150310	04-06	Camden Intermediate
+150312	07-08	Camden Middle
+150700	09-12	CamTech High
+150LEA		Camden County Schools
+160304	PK-08	Atlantic Elementary
+160306	PK-05	Bogue Sound Elementary
+160308	PK-05	Beaufort Elementary
+160310	06-08	Beaufort Middle
+160311	06-08	Broad Creek Middle
+160313	06-12	East Carteret High
+160314	09-12	Croatan High
+160316	0K-08	Harkers Island Elementary
+160317	04-05	Morehead Elem at Camp Glenn
+160318	06-08	Morehead City Middle
+160322	PK-06	Morehead City Primary
+160324	PK-05	Newport Elementary
+160326	06-08	Newport Middle
+160332	PK-08	Smyrna Elementary
+160344	09-12	West Carteret High
+160352	PK-05	White Oak Elementary
+160LEA		Carteret County Public Schools
+16A000	09-12	Cape Lookout Marine Sci High
+16B000	0K-05	Tiller School
+170316	09-12	Bartlett Yancey High
+170334	PK-05	North Elementary
+170338	06-08	N L Dillard Middle
+170339	PK-05	Oakwood Elementary
+170342	PK-05	South Elementary
+170344	0K-05	Stoney Creek Elementary
+170LEA		Caswell County Schools
+180302	07-08	Harry M Arndt Middle
+180304	PK-06	Balls Creek Elementary
+180308	09-12	Bandys High
+180312	0K-06	Banoak Elementary
+180316	0K-06	Blackburn Elementary
+180320	09-12	Bunker Hill High
+180323	05-12	Catawba Rosenwald Education Center
+180324	PK-06	Catawba Elementary School
+180325	09-13	Challenger Early College High
+180326	0K-06	Charles H Tuttle Elementary
+180332	PK-06	Claremont Elementary
+180336	0K-06	Clyde Campbell Elementary
+180340	09-12	Fred T Foard High
+180342	07-08	Jacobs Fork Middle
+180343	0K-06	Lyle Creek Elementary
+180344	0K-06	Maiden Elementary
+180346	07-08	Maiden Middle School
+180348	09-12	Maiden High
+180352	07-08	Mill Creek Middle
+180356	PK-06	Mountain View Elementary
+180360	PK-06	Oxford Elementary
+180364	07-08	River Bend Middle
+180368	0K-06	Sherrills Ford Elementary
+180372	0K-06	Saint Stephens Elementary
+180376	09-12	Saint Stephens High
+180379	0K-06	Snow Creek Elementary
+180380	PK-06	Startown Elementary
+180388	PK-06	Webb A Murray Elementary
+180LEA		Catawba County Schools
+181312	06-08	Northview Middle
+181316	06-08	Grandview Middle
+181318	06-12	Hickory Career & Arts Magnet High School
+181322	09-12	Hickory High
+181326	PK-05	W M Jenkins Elementary
+181332	PK-05	Longview Elementary
+181336	PK-05	Oakwood Elementary
+181342	PK-05	Southwest Elementary
+181344	PK-05	Viewmont Elementary
+181LEA		Hickory City Schools
+182304	PK-13	Conover Special Education
+182316	09-12	Newton-Conover High
+182321	06-08	Newton-Conover Middle
+182322	PK-05	Shuford Elementary
+182324	PK-05	South Newton Elementary
+182328	PK-05	Thornton Elementary
+182700	09-12	Discovery High School
+182LEA		Newton Conover City Schools
+190304	PK-08	Bennett Elementary
+190308	0K-08	Bonlee Elementary
+190310	09-12	SAGE Academy
+190312	06-08	Chatham Middle
+190316	09-12	Chatham Central High
+190328	05-08	Horton Middle
+190332	0K-08	J S Waters Elementary
+190336	09-12	Jordan Matthews High
+190339	06-08	Margaret B. Pollard Middle
+190340	PK-08	Moncure Elementary
+190341	PK-05	North Chatham Elementary
+190342	09-12	Northwood High
+190346	PK-05	Perry W Harrison Elementary
+190348	PK-04	Pittsboro Elementary
+190350	PK-05	Siler City Elementary
+190352	PK-08	Silk Hope Elementary
+190370	PK-05	Virginia Cross Elementary
+190LEA		Chatham County Schools
+19A000	0K-08	Chatham Charter
+19B000	0K-12	Woods Charter
+200304	PK-05	Andrews Elementary
+200308	09-12	Andrews High
+200310	06-08	Andrews Middle
+200312	PK-08	Hiwassee Dam Elementary/Middle
+200314	09-12	Hiwassee Dam High
+200316	PK-05	Marble Elementary
+200320	PK-08	Martins Creek Elementary/Mid
+200322	06-12	Mountain Youth School
+200324	PK-05	Murphy Elementary
+200328	09-12	Murphy High
+200330	06-08	Murphy Middle
+200332	PK-05	Peachtree Elementary
+200336	PK-08	Ranger Elementary/Middle
+200350	09-13	Tri-County Early College High
+200LEA		Cherokee County Schools
+20A000	0K-08	The Learning Center
+210304	06-08	Chowan Middle
+210306	03-05	D F Walker Elementary
+210312	09-12	John A Holmes High
+210LEA		Edenton-Chowan Schools
+220308	PK-04	Hayesville Elementary
+220310	09-12	Hayesville High
+220312	05-08	Hayesville Middle
+220LEA		Clay County Schools
+230304	PK-04	Bethware Elementary
+230308	PK-05	Boiling Springs Elementary
+230312	09-12	Burns High
+230316	06-08	Burns Middle
+230320	PK-05	Casar Elementary
+230322	09-13	Cleveland ECHS
+230324	09-12	Crest High
+230328	06-08	Crest Middle
+230330	06-12	Turning Point Academy
+230334	PK-04	East Elementary
+230336	05-06	Shelby Intermediate
+230340	PK-05	Fallston Elementary
+230342	PK-04	Graham Elementary
+230344	PK-04	Grover Elementary
+230346	PK-04	James Love Elementary
+230348	PK-04	Jefferson Elementary
+230350	09-12	Kings Mountain High
+230351	05-06	Kings Mountain Intermediate
+230352	07-08	Kings Mountain Middle
+230355	PK-04	Marion Elementary
+230357	PK-04	North Elementary
+230359	PK-12	North Shelby
+230361	09-12	Shelby High
+230362	07-08	Shelby Middle
+230364	PK-05	Springmore Elementary
+230368	PK-05	Township Three Elementary
+230370	PK-05	Union Elementary
+230376	PK-05	Washington Elementary
+230380	PK-04	West Elementary
+230LEA		Cleveland County Schools
+240304	06-08	Acme Delco Middle
+240308	PK-05	Acme Delco Elementary
+240318	06-12	Boys and Girls Homes
+240328	PK-08	Cerro Gordo Elementary
+240330	06-08	Chadbourn Middle
+240332	PK-05	Chadbourn Elementary
+240334	09-12	East Columbus High
+240344	PK-08	Evergreen Elementary
+240352	PK-05	Guideway Elementary
+240354	PK-05	Hallsboro-Artesia Elementary
+240356	06-08	Hallsboro Middle
+240368	06-08	Nakina Middle
+240370	PK-05	Old Dock Elementary
+240371	09-12	South Columbus High
+240372	PK-05	Tabor City Elementary
+240373	09-12	CCCA - Southeastern Campus
+240376	06-08	Tabor City Middle
+240380	09-12	West Columbus High
+240388	PK-08	Williams Township
+240LEA		Columbus County Schools
+241304	06-08	Central Middle
+241308	03-05	Edgewood Elementary
+241312	03-12	North Whiteville Academy
+241316	09-12	Whiteville High
+241LEA		Whiteville City Schools
+24N000	0K-07	Columbus Charter School
+250304	0K-05	Albert H Bangert Elementary
+250306	PK-05	Ben D Quinn Elementary
+250308	0K-05	Bridgeton Elementary
+250312	0K-05	Brinson Memorial Elementary
+250314	09-13	Craven Early College High
+250316	0K-05	Creekside Elementary
+250320	PK-05	Vanceboro-Farm Life Elementary
+250321	09-13	Early College EAST High
+250324	06-08	Grover C Fields Middle
+250328	PK-05	Graham A Barden Elementary
+250332	06-08	H J MacDonald Middle
+250336	0K-05	Havelock Elementary
+250340	09-12	Havelock High
+250344	06-08	Havelock Middle
+250348	PK-05	J T Barber Elementary
+250350	PK-05	James W Smith Elementary
+250356	09-12	New Bern High
+250360	0K-05	Oaks Road Elementary
+250362	0K-05	Roger R Bell Elementary
+250364	0K-05	Trent Park Elementary
+250368	06-08	Tucker Creek Middle
+250372	09-12	West Craven High
+250376	06-08	West Craven Middle
+250378	0K-05	W Jesse Gurganus Elementary
+250380	0K-05	Arthur W Edwards Elementary
+250LEA		Craven County Schools
+260306	PK-05	Armstrong Elementary
+260308	03-05	Ashley Elementary
+260310	PK-05	Loyd E Auman Elementary
+260312	PK-05	Beaver Dam Elementary
+260316	0K-05	Lillian Black Elementary
+260318	09-12	Jack Britt High
+260320	PK-05	Brentwood Elementary
+260321	06-08	Douglas Byrd Middle
+260322	09-12	Douglas Byrd High
+260325	09-12	Cape Fear High
+260326	PK-05	Elizabeth M Cashwell Elementary
+260332	PK-05	Eastover Central Elementary
+260336	06-08	Anne Chesnutt Middle
+260338	PK-05	Cliffdale Elementary
+260340	0K-05	College Lakes Elementary
+260342	PK-05	C Wayne Collier Elementary
+260344	PK-05	J W Coon Elementary
+260347	09-12	Cumberland International Early CollegeHS
+260348	PK-05	Cumberland Mills Elementary
+260352	PK-05	Cumberland Road Elementary
+260354	09-12	Cross Creek Early College
+260356	PK-05	District No 7 Elementary
+260357	09-12	Gray's Creek High
+260358	06-08	Luther 'Nick' Jeralds Middle
+260359	09-12	E E Smith High
+260361	PK-05	Ferguson-Easley Elementary
+260362	06-08	Gray's Creek Middle
+260364	PK-05	Alderman Road Elementary
+260365	06-08	R Max Abbott Middle
+260366	PK-05	Howard L Hall Elementary
+260367	0K-05	Bill Hefner Elementary
+260368	06-08	Hope Mills Middle
+260369	06-08	John R Griffin Middle
+260370	PK-05	Ed V Baldwin Elementary
+260371	06-08	Ireland Drive Middle
+260372	06-08	Lewis Chapel Middle
+260373	PK-05	Gallberry Farm Elementary
+260374	09-12	Fuller Performance Learning Center
+260375	PK-05	Gray's Creek Elementary
+260380	02-05	Long Hill Elementary
+260382	PK-05	Lucile Souders Elementary
+260383	06-08	Mac Williams Middle
+260386	PK-05	Margaret Willis Elementary
+260388	09-12	Massey Hill Classical High
+260396	PK-05	Mary McArthur Elementary
+260397	0K-05	E Melvin Honeycutt Elementary
+260398	PK-05	E E Miller Elementary
+260400	PK-05	Montclair Elementary
+260401	0K-05	Morganton Road Elementary
+260402	0K-05	Manchester Elementary
+260403	PK-05	New Century International Elementary
+260404	PK-05	William H Owen Elementary
+260405	0K-05	Walker Spivey Elementary
+260406	06-08	Pine Forest Middle
+260407	PK-05	Lake Rim Elementary
+260408	09-12	Pine Forest High
+260410	PK-05	Ponderosa Elementary
+260411	09-12	Reid Ross Classical High
+260413	05-08	Pauline Jones Middle
+260414	PK-05	Benjamin J Martin Elementary
+260415	0K-05	Rockfish Elementary
+260416	PK-05	J W Seabrook Elementary
+260417	06-08	New Century International Middle
+260418	06-08	Seventy-First Classical Middle
+260419	06-08	Reid Ross Classical Middle
+260424	09-12	Seventy-First High
+260425	06-08	South View Middle
+260426	PK-05	Sherwood Park Elementary
+260427	09-12	South View High
+260428	06-08	Spring Lake Middle
+260430	02-05	Stedman Elementary
+260434	0K-05	Stoney Point Elementary
+260440	PK-05	Sunnyside Elementary
+260444	0K-05	Teresa C Berrien Elementary
+260446	09-12	Terry Sanford High
+260448	02-05	Vanstory Hills Elementary
+260449	09-12	Ramsey Street High
+260450	PK-05	Warrenwood Elementary
+260452	PK-05	Westarea Elementary
+260454	06-08	Westover Middle
+260455	09-12	Westover High
+260456	0K-05	Alger B Wilkins Elementary
+260459	PK-05	William T Brown Elementary
+260700	09-12	Howard Health & Life Sciences
+260LEA		Cumberland County Schools
+26B000	0K-08	Alpha Academy
+270304	PK-05	Central Elementary
+270306	09-12	Currituck County High
+270308	06-08	Currituck County Middle
+270309	PK-05	Jarvisburg Elementary
+270310	0K-05	Shawboro Elementary School
+270311	09-13	The JP Knapp ECH (i)School
+270312	0K-05	Knotts Island Elementary
+270316	0K-05	Moyock Elementary
+270318	06-08	Moyock Middle
+270320	0K-05	W T Griggs Elementary
+270LEA		Currituck County Schools
+27A000	0K-06	Water's Edge Village School
+280302	PK-05	Cape Hatteras Elementary School
+280304	06-12	Cape Hatteras Secondary School
+280306	07-12	Dare County Alternative School
+280308	0K-05	Kitty Hawk Elementary School
+280310	PK-05	Nags Head Elementary School
+280312	PK-05	Manteo Elementary School
+280316	09-12	Manteo High School
+280320	06-08	Manteo Middle School
+280324	PK-05	First Flight Elementary School
+280328	06-08	First Flight Middle School
+280330	09-12	First Flight High School
+280LEA		Dare County Schools
+290302	0K-05	Brier Creek Elementary
+290306	0K-05	Northwest Elementary
+290307	0K-05	Southmont Elementary
+290308	09-12	Central Davidson High
+290309	06-08	Central Davidson Middle
+290310	SP-ED	Stoner-Thomas School
+290312	PK-05	Churchland Elementary
+290314	06-12	Davidson County High School
+290315	09-13	Davidson Early College
+290316	PK-05	Davis-Townsend Elementary
+290320	PK-05	Denton Elementary
+290322	06-08	E Lawson Brown Middle
+290324	09-12	East Davidson High
+290328	PK-05	Fair Grove Elementary
+290330	0K-05	Friedberg Elementary
+290332	0K-05	Hasty Elementary
+290333	PK-05	Friendship Elementary
+290334	06-08	Ledford Middle
+290336	09-12	Ledford Senior High
+290344	PK-05	Midway Elementary
+290348	09-12	North Davidson High
+290350	06-08	North Davidson Middle
+290351	06-08	Oak Grove Middle
+290352	PK-05	Pilot Elementary
+290356	PK-05	Reeds Elementary
+290364	PK-05	Silver Valley Elementary
+290365	09-12	South Davidson High
+290366	PK-05	Southwood Elementary
+290367	06-08	South Davidson Middle
+290375	0K-05	Tyro Elementary
+290376	06-08	Tyro Middle
+290380	PK-05	Wallburg Elementary
+290384	PK-05	Welcome Elementary
+290388	09-12	West Davidson High
+290389	09-09	Yadkin Valley Regional Career Academy
+290LEA		Davidson County Schools
+291308	01-05	Charles England Elementary School
+291332	06-08	Lexington Middle School
+291336	09-12	Lexington Senior High
+291340	01-05	Pickett Elementary School
+291350	0K-12	South Lexington Development Center
+291352	01-05	Southwest Elementary School
+291LEA		Lexington City Schools
+292316	04-05	Liberty Drive Elementary
+292318	PK-03	Thomasville Primary
+292320	06-08	Thomasville Middle
+292324	09-12	Thomasville High
+292LEA		Thomasville City Schools
+298202	0K-12	Eastern NC School for the Deaf
+298203	PK-12	Gov. Morehead School for the Blind
+298204	0K-12	NC School for the Deaf
+300306	06-12	Central Davie Academy
+300308	0K-05	Cooleemee Elementary
+300310	0K-05	Cornatzer Elementary
+300312	09-12	Davie County High
+300314	09-13	Davie County Early College High
+300320	0K-05	Mocksville Elementary
+300325	06-08	North Davie Middle
+300326	0K-05	Pinebrook Elementary
+300328	0K-05	Shady Grove Elementary
+300330	06-08	South Davie Middle
+300336	0K-05	William R Davie Elementary
+300337	06-08	William Ellis Middle
+300LEA		Davie County Schools
+310304	PK-08	B F Grady Elementary
+310308	PK-08	Beulaville Elementary
+310324	06-08	Charity Middle
+310330	PK-08	Chinquapin Elementary
+310336	PK-05	Warsaw Elementary
+310338	09-13	Duplin Early College High
+310340	06-08	E E Smith Middle
+310344	09-12	East Duplin High
+310352	09-12	James Kenan High
+310356	PK-05	Kenansville Elementary
+310360	PK-06	North Duplin Elementary
+310364	07-12	North Duplin Jr Sr High
+310384	PK-05	Rose Hill-Magnolia Elementary
+310388	PK-05	Wallace Elementary
+310392	09-12	Wallace-Rose Hill High
+310396	06-08	Warsaw Middle
+310LEA		Duplin County Schools
+320304	0K-05	Bethesda Elementary
+320306	06-08	Brogden Middle
+320308	PK-05	Burton Elementary
+320309	09-12	J D Clement Early College HS
+320310	PK-05	Eastway Elementary
+320312	09-12	C E Jordan High
+320313	0K-05	Easley Elementary
+320314	08-08	Chewning Middle
+320315	PK-05	Eno Valley Elementary
+320316	06-08	George L Carrington Middle
+320317	09-12	City of Medicine Academy
+320318	0K-05	Club Boulevard Elementary
+320319	0K-05	Creekside Elementary
+320320	0K-05	Glenn Elementary
+320322	08-12	Durham's Performance Learning Center
+320323	06-12	Durham School of the Arts
+320324	PK-05	Hillandale Elementary
+320325	09-12	Hillside High
+320327	0K-05	Hope Valley Elementary
+320328	PK-05	Holt Elementary
+320332	0K-05	Forest View Elementary
+320338	06-08	James E Shepard Middle
+320339	PK-05	Lakewood Elementary
+320340	PK-05	Little River Elementary
+320341	06-12	Lakeview School
+320342	06-08	Lakewood Montessori Middle
+320343	06-07	Lucas Middle
+320344	0K-05	Fayetteville Street Elementary
+320346	06-08	Lowe's Grove Middle
+320347	PK-05	George Watts Elementary
+320348	0K-05	Mangum Elementary
+320352	PK-05	Merrick-Moore Elementary
+320354	PK-05	Morehead Montessori
+320355	06-08	Neal Middle
+320356	09-12	Northern High
+320360	PK-05	Oak Grove Elementary
+320362	0K-05	Parkwood Elementary
+320363	0K-05	E K Powe Elementary
+320364	PK-05	Pearsontown Elementary
+320365	09-12	Riverside High
+320366	06-08	Sherwood Githens Middle
+320367	PK-05	R N Harris Elementary
+320368	09-12	Southern School of Energy and Sustainabi
+320369	PK-05	Sandy Ridge Elementary
+320370	06-08	Rogers-Herr Middle
+320372	PK-05	Southwest Elementary
+320374	PK-05	C C Spaulding Elementary
+320376	PK-05	Spring Valley Elementary
+320388	PK-05	W G Pearson Elementary
+320389	07-08	WG Pearson Magnet Middle
+320400	PK-05	Y E Smith Elementary
+320700	09-12	Southern School of Engineering
+320701	09-12	Hillside New Tech High
+320LEA		Durham Public Schools
+32A000	0K-08	Maureen Joy Charter School
+32B000	0K-08	Healthy Start Academy
+32C000	0K-08	Carter Community Charter
+32D000	0K-12	Kestrel Heights School
+32H000	0K-08	Research Triangle Charter
+32K000	0K-05	Central Park School For Child
+32L000	0K-11	Voyager Academy
+32M000	0K-05	Global Scholars Academy
+32N000	09-09	Research Triangle High
+330304	PK-05	G W Bulluck Elementary
+330308	PK-05	G W Carver Elementary
+330312	PK-05	Coker-Wimberly Elementary
+330324	07-08	C B Martin Middle
+330326	09-13	Edgecombe Early College High
+330328	09-12	North Edgecombe High
+330330	04-06	W A Pattillo Elementary
+330332	06-08	Phillips Middle
+330334	PK-05	Princeville Elementary
+330340	06-08	South Edgecombe Middle
+330348	06-08	West Edgecombe Middle
+330350	09-12	SouthWest Edgecombe High
+330354	PK-03	Stocks Elementary
+330358	09-12	Tarboro High
+330LEA		Edgecombe County Public Schools
+33A000	0K-08	North East Carolina Prep
+340308	PK-05	Ashley Elementary
+340311	09-12	Atkins Academic & Technology High
+340314	PK-05	Bolton Elementary
+340320	0K-05	Brunson Elementary
+340326	PK-05	Caleb's Creek Elementary
+340330	09-12	Carver High
+340334	PK-05	Cash Elementary
+340336	09-12	Carter High School
+340344	PK-05	Children's Center
+340348	0K-05	Clemmons Elementary
+340350	06-08	Clemmons Middle
+340351	PK-05	Cook Elementary
+340354	PK-08	The Downtown School
+340362	09-12	Early College of Forsyth Count
+340364	09-12	East Forsyth High
+340366	06-08	East Forsyth Middle
+340368	PK-05	Easton Elementary
+340372	06-08	Flat Rock Middle
+340376	PK-05	Forest Park Elementary
+340380	0K-05	Gibson Elementary
+340382	09-12	R B Glenn High
+340384	0K-05	Griffith Elementary
+340385	06-12	Main Street Academy
+340390	PK-05	Hall-Woodward Elementary
+340392	06-08	Hanes Middle
+340398	0K-12	Hospital/Homebound Ed Center
+340400	PK-05	Ibraham Elementary
+340403	0K-05	Jefferson Elementary
+340406	06-08	Jefferson Middle
+340416	0K-05	Kernersville Elementary
+340420	06-08	Kernersville Middle
+340424	PK-05	Kimberley Park Elementary
+340426	0K-05	Kimmel Farm Elementary
+340427	0K-12	Kingswood School
+340428	PK-05	Konnoak Elementary
+340430	PK-05	Diggs-Latham Elementary
+340432	0K-05	Lewisville Elementary
+340436	SP-ED	Lowrance Middle
+340440	0K-05	Meadowlark Elementary
+340442	06-08	Meadowlark Middle
+340446	11-12	Middle College of Forsyth Cnty
+340447	0K-05	Middle Fork Elementary
+340448	0K-05	Mineral Springs Elementary
+340452	06-08	Mineral Springs Middle
+340453	0K-05	Moore Elementary
+340454	09-12	Mount Tabor High
+340457	0K-05	Frank Morgan Elementary
+340460	09-12	North Forsyth High
+340462	PK-05	North Hills Elementary
+340464	06-08	Northwest Middle
+340472	0K-05	Old Richmond Elementary
+340476	PK-05	Old Town Elementary
+340480	06-10	Paisley IB Magnet
+340486	09-12	Parkland High
+340488	06-11	J. F. Kennedy High
+340490	PK-05	Petree Elementary
+340492	06-08	Philo-Hill Magnet Academy
+340494	0K-05	Piney Grove Elementary
+340495	09-12	Reagan High
+340496	09-12	Reynolds High
+340504	0K-05	Rural Hall Elementary
+340508	0K-05	Sedge Garden Elementary
+340512	0K-05	Sherwood Forest Elementary
+340516	06-08	Southeast Middle
+340520	PK-05	South Fork Elementary
+340528	0K-05	Southwest Elementary
+340530	PK-05	Speas Elementary
+340531	0K-05	The Special Children's School
+340532	0K-05	Union Cross Elementary
+340536	0K-05	Vienna Elementary
+340540	PK-05	Walkertown Elementary
+340542	09-11	Walkertown High
+340544	06-08	Walkertown Middle
+340548	0K-05	Ward Elementary
+340556	09-12	West Forsyth High
+340560	0K-05	Whitaker Elementary
+340564	06-08	Wiley Middle
+340568	06-12	Winston-Salem Preparatory Acad
+340LEA		Forsyth County Schools
+34B000	0K-12	Quality Education Academy
+34C000	05-08	The STEAM Academy of Winston Salem
+34D000	0K-12	Carter G Woodson School
+34F000	0K-08	Forsyth Academy
+34G000	0K-06	The Arts Based School
+350304	0K-05	Bunn Elementary
+350308	09-12	Bunn High
+350310	06-08	Bunn Middle
+350312	06-08	Cedar Creek Middle
+350316	PK-05	Edward Best Elementary
+350317	09-13	Franklin County Early College
+350318	PK-05	Franklinton Elementary
+350321	09-12	Franklinton High
+350330	PK-05	Laurel Mill Elementary
+350331	PK-05	Long Mill Elementary
+350332	PK-05	Louisburg Elementary
+350336	09-12	Louisburg High
+350338	06-08	Terrell Lane Middle
+350339	PK-05	Royal Elementary
+350340	0K-05	Youngsville Elementary
+350LEA		Franklin County Schools
+35A000	0K-08	Crosscreek Charter School
+360310	09-12	Ashbrook High
+360320	02-05	Belmont Central Elementary
+360324	06-08	Belmont Middle
+360332	03-05	Bessemer City Central Elem
+360336	09-12	Bessemer City High
+360337	09-13	Gaston Early College High School
+360339	04-05	Blaine Beam Intermediate
+360340	PK-05	Brookside Elementary
+360344	PK-05	Carr Elementary
+360348	PK-05	Catawba Heights Elementary
+360352	PK-05	Chapel Grove Elementary
+360360	09-12	Cherryville High
+360364	PK-03	Cherryville Elementary
+360372	06-12	Warlick Academy
+360376	PK-05	Costner Elementary
+360380	06-08	Cramerton Middle
+360390	09-12	East Gaston High
+360392	PK-05	Sadler Elementary
+360394	SP-ED	Webb St
+360396	09-12	Forestview High
+360400	PK-05	Gardner Park Elementary
+360408	06-08	Grier Middle
+360416	04-05	Hawks Nest Intermediate
+360418	09-12	Highland Sch of Technology
+360426	06-08	Holbrook Middle
+360428	09-12	Hunter Huss High
+360431	06-08	Chavis Middle
+360432	03-05	Kiser Elementary
+360436	06-08	Bessemer City Middle
+360438	PK-05	Lingerfeldt Elementary
+360440	0K-05	Lowell Elementary
+360448	0K-05	McAdenville Elementary
+360456	06-08	Mount Holly Middle
+360460	PK-05	Forest Heights Elementary
+360464	0K-05	New Hope Elementary
+360468	PK-05	North Belmont Elementary
+360470	09-12	North Gaston High
+360478	PK-05	Pinewood Elementary
+360480	PK-05	Pleasant Ridge Elementary
+360482	PK-05	Rankin Elementary
+360484	PK-05	Rhyne Elementary
+360488	PK-03	Robinson Elementary
+360490	PK-05	Sherwood Elementary
+360492	PK-05	H H Beam Elementary
+360494	09-12	South Point High
+360498	06-08	Southwest Middle
+360500	06-08	Stanley Middle
+360504	PK-05	Tryon Elementary
+360510	0K-05	Bess Elementary
+360514	06-08	Friday Middle
+360520	PK-05	Woodhill Elementary
+360526	06-08	York Chester Middle
+360LEA		Gaston County Schools
+36B000	0K-12	Piedmont Community Charter School, CFA
+36C000	0K-09	Mountain Island Charter
+370304	PK-05	Buckland Elementary
+370308	06-08	Central Middle
+370312	09-12	Gates County Senior High
+370316	PK-05	Gatesville Elementary
+370324	0K-05	T S Cooper Elementary
+370LEA		Gates County Schools
+380306	PK-06	Robbinsville Elementary
+380308	PK-12	Robbinsville High
+380310	07-08	Robbinsville Middle
+380LEA		Graham County Schools
+390309	06-08	Butner-Stem Middle
+390311	PK-05	Butner-Stem Elementary
+390312	PK-05	C. G. Credle Elementary
+390314	0K-12	Center For Innovative Learning
+390316	PK-05	Creedmoor Elementary
+390320	06-08	G. C. Hawley Middle
+390322	09-12	Granville Central High
+390323	09-13	Granville Early College High
+390324	09-12	J. F. Webb High
+390331	06-08	Mary Potter Middle
+390333	PK-05	Mount Energy Elementary
+390334	06-08	Northern Granville Middle
+390336	PK-05	Joe Toler-Oak Hill Elementary
+390360	PK-05	Stovall-Shaw Elementary
+390362	PK-05	Tar River Elementary
+390364	PK-05	West Oxford Elementary
+390368	PK-05	Wilton Elementary
+390700	09-12	JF Webb High School Of Health And Life S
+390704	09-12	S Granville High of Health Sci
+390705	09-12	S Granville HS of Integ Tech & Lead
+390LEA		Granville County Schools
+400308	09-12	Greene Central High
+400312	06-08	Greene County Middle
+400315	09-13	Greene Early College High
+400318	04-05	Greene County Intermediate
+400332	02-03	West Greene Elementary
+400LEA		Greene County Schools
+410304	PK-05	Alamance Elementary
+410307	PK-05	Alderman Elementary
+410310	PK-05	Allen Jay Elementary
+410313	06-08	Southern Guilford Middle
+410316	06-08	Allen Middle
+410319	09-12	Andrews High
+410322	PK-05	Archer Elementary
+410325	06-08	Aycock Middle
+410326	09-12	Middle College at Bennett
+410328	PK-05	Bessemer Elementary
+410331	0K-05	Bluford Elementary
+410334	PK-05	Brightwood Elementary
+410337	0K-05	Brooks Global Studies
+410340	PK-05	Monticello-Brown Summit Elementary
+410341	06-08	Brown Summit Middle
+410343	0K-05	Claxton Elementary
+410346	PK-05	Colfax Elementary
+410349	PK-05	Cone Elementary
+410355	09-12	Dudley High
+410358	09-12	Eastern Guilford High
+410361	PK-05	Erwin Montessori
+410364	PK-05	Fairview Elementary
+410366	PK-05	Falkener Elementary
+410367	06-08	Ferndale Middle
+410370	0K-05	Florence Elementary
+410373	PK-05	Foust Elementary
+410376	PK-05	Frazier Elementary
+410379	PK-12	Gateway Education Center
+410382	PK-05	Gibsonville Elementary
+410385	PK-05	Gillespie Park Elementary
+410388	0K-05	General Greene Elementary
+410390	11-12	GSO College Middle College
+410391	06-12	Penn-Griffin School for the Arts
+410394	09-12	Grimsley High
+410395	09-12	The Early College at Guilford
+410396	08-08	High School Ahead Academy
+410397	06-08	Guilford Middle
+410398	03-12	Doris Henderson Newcomers School
+410399	09-13	Middle College at GTCC - GSO
+410400	PK-05	Guilford Elementary
+410401	09-13	Middle College at GTCC - Jamestown
+410402	06-08	Hairston Middle
+410403	PK-05	Hampton Elementary
+410406	09-12	High Point Central High
+410407	09-12	The Academy at HP Central
+410408	09-13	Middle College at GTCC - High Point
+410409	PK-05	Hunter Elementary
+410412	PK-05	Irving Park Elementary
+410415	06-08	Jackson Middle
+410418	PK-05	Jamestown Elementary
+410421	06-08	Jamestown Middle
+410423	PK-05	Jefferson Elementary
+410424	0K-05	Jesse Wharton Elementary
+410427	0K-08	Johnson Street Global Studies
+410430	PK-05	Jones Elementary
+410436	PK-05	Joyner Elementary
+410437	06-08	Kernodle Middle
+410439	PK-05	Kirkman Park Elementary
+410442	06-08	Kiser Middle
+410448	04-08	The Academy at Lincoln
+410451	PK-05	Lindley Elementary
+410454	0K-05	Madison Elementary
+410457	0K-12	McIver Education Center
+410460	06-08	Eastern Guilford Middle
+410461	PK-05	McLeansville Elementary
+410462	PK-05	McNair Elementary
+410463	06-08	Mendenhall Middle
+410464	PK-12	Haynes- Inman Education Center
+410466	PK-05	Millis Road Elementary
+410469	PK-05	Montlieu Academy
+410472	0K-05	Morehead Elementary
+410478	0K-05	Murphey Traditional Academy
+410481	0K-05	Nathanael Greene Elementary
+410483	09-12	Middle College at NC A&T
+410484	09-12	Northeast Guilford High
+410486	0K-05	Northern Guilford Elementary
+410487	06-08	Northeast Guilford Middle
+410488	06-08	Northern Guilford Middle
+410489	09-12	Northern Guilford High
+410490	09-12	Northwest Guilford High
+410491	0K-05	Pearce Elementary
+410493	06-08	Northwest Guilford Middle
+410496	PK-05	Northwood Elementary
+410499	PK-05	Oak Hill Elementary
+410502	PK-05	Oak Ridge Elementary
+410505	PK-05	Oak View Elementary
+410508	09-12	Page High
+410511	PK-05	Parkview Village Elementary
+410514	PK-05	Peck Elementary
+410517	0K-05	Peeler Open Elementary
+410522	PK-05	Pilot Elementary
+410523	PK-05	Pleasant Garden Elementary
+410529	09-12	Ragsdale High
+410530	PK-05	Reedy Fork Elementary
+410532	PK-05	Rankin Elementary
+410533	06-12	SCALE - Greensboro
+410534	06-12	Dean B Pruett SCALE Academy
+410535	PK-05	Sedalia Elementary
+410538	PK-05	Sedgefield Elementary
+410541	PK-05	Shadybrook Elementary
+410544	09-12	Smith High
+410545	09-12	The Academy at Smith
+410547	09-12	Southeast Guilford High
+410550	06-08	Southeast Guilford Middle
+410553	PK-05	Southern Guilford Elementary
+410556	09-12	Southern Guilford High
+410559	0K-05	Southwest Guilford Elementary
+410562	09-12	Southwest Guilford High
+410565	06-08	Southwest Guilford Middle
+410568	PK-05	Sternberger Elementary
+410569	09-09	STEM Early College at NC A&T
+410571	PK-05	Stokesdale Elementary
+410574	0K-05	Summerfield Elementary
+410577	0K-05	Sumner Elementary
+410578	PK-05	Triangle Lake Montessori
+410579	09-10	Middle College at UNCG
+410580	PK-05	Union Hill Elementary
+410583	PK-05	Vandalia Elementary
+410586	PK-05	Washington Montessori School
+410589	09-12	Weaver Academy
+410592	06-08	Welborn Academy
+410595	09-12	Western Guilford High
+410598	PK-05	Wiley Elementary
+410LEA		Guilford County Schools
+41B000	0K-08	Greensboro Academy
+41C000	0K-08	Guilford Preparatory Academy
+41D000	0K-05	Phoenix Academy
+41F000	0K-11	Triad Math and Science Academy
+41G000	0K-06	Cornerstone Academy
+41H000	0K-04	College Prep and Leadership Academy
+420304	PK-05	Aurelian Springs Elementary
+420316	PK-05	Dawson Elementary
+420324	06-08	Enfield Middle
+420328	PK-05	Everetts Elementary
+420336	PK-05	Hollister Elementary
+420340	PK-05	Inborden Elementary
+420346	09-12	Northwest High
+420348	PK-05	Pittman Elementary
+420356	PK-03	Scotland Neck Primary
+420358	09-12	Southeast Halifax High
+420376	06-08	William R Davie Middle
+420LEA		Halifax County Schools
+421304	PK-05	Belmont Elementary
+421306	06-08	Chaloner Middle
+421316	09-12	Roanoke Rapids High
+421328	PK-05	William L Manning Elementary
+421LEA		Roanoke Rapids City Schools
+422310	09-13	Roanoke Valley Early College
+422314	PK-04	Weldon Elementary
+422315	09-12	Weldon High
+422318	05-08	Weldon Middle
+422LEA		Weldon City Schools
+430308	03-05	Angier Elementary
+430312	0K-05	Benhaven Elementary
+430316	0K-05	Boone Trail Elementary
+430320	0K-05	Buies Creek Elementary
+430328	PK-05	Coats Elementary
+430330	06-08	Coats-Erwin Middle
+430332	06-08	Dunn Middle
+430336	03-05	Erwin Elementary
+430344	PK-03	Harnett Primary
+430345	06-12	STAR Academy
+430346	09-12	Harnett Central High
+430347	06-08	Harnett Central Middle
+430348	0K-05	Johnsonville Elementary
+430349	0K-05	Highland Elementary
+430352	0K-05	LaFayette Elementary
+430358	PK-05	Lillington-Shawtown Elementary
+430369	PK-05	Overhills Elementary
+430370	06-08	Overhills Middle
+430371	09-12	Overhills High
+430376	PK-05	South Harnett Elementary
+430378	09-12	Triton High
+430380	04-05	Wayne Avenue Elem
+430384	09-12	Western Harnett High
+430386	06-08	Western Harnett Middle
+430LEA		Harnett County Schools
+440314	0K-05	Bethel Elementary
+440318	06-08	Bethel Middle
+440320	06-08	Canton Middle
+440324	PK-05	Central Elementary
+440326	09-12	Central Haywood High
+440328	0K-05	Clyde Elementary
+440332	0K-05	Riverbend Elementary
+440346	09-13	Haywood Early College
+440348	PK-05	Hazelwood Elementary
+440349	PK-05	Jonathan Valley Elementary
+440350	0K-05	Junaluska Elementary
+440364	PK-05	Meadowbrook Elementary
+440368	0K-05	North Canton Elementary
+440378	09-12	Pisgah High
+440390	09-12	Tuscola High
+440396	06-08	Waynesville Middle
+440LEA		Haywood County Schools
+450301	06-08	Apple Valley Middle
+450302	0K-05	Atkinson Elementary
+450306	0K-05	Bruce Drysdale Elementary
+450307	0K-05	Clear Creek Elementary
+450308	0K-05	Dana Elementary
+450316	09-12	East Henderson High
+450322	0K-05	Edneyville Elementary
+450324	0K-05	Etowah Elementary
+450328	06-08	Flat Rock Middle
+450332	0K-05	Fletcher Elementary
+450333	0K-05	Hendersonville Elementary
+450334	09-12	Hendersonville High
+450335	06-08	Hendersonville Middle
+450336	0K-05	Hillandale Elementary
+450339	0K-05	Glenn C Marlow Elementary
+450340	0K-05	Mills River Elementary
+450341	09-12	North Henderson High
+450342	06-08	Rugby Middle
+450343	06-12	Balfour Education Center
+450344	0K-05	Sugarloaf Elementary
+450346	0K-05	Upward Elementary
+450352	09-12	West Henderson High
+450354	09-13	Henderson County Early College
+450LEA		Henderson County Schools
+45A000	0K-08	The Mountain Community Sch
+460308	04-06	Ahoskie Elementary
+460312	PK-03	Bearfield Primary
+460318	07-08	Hertford County Middle
+460320	09-12	Hertford County High
+460322	09-13	Hertford Co Early College
+460332	PK-06	Riverview Elementary
+460340	09-12	CS Brown High
+460LEA		Hertford County Schools
+470310	PK-05	Don D Steed Elementary
+470312	09-12	Hoke County High
+470316	PK-05	J W McLauchlin Elementary
+470320	06-08	West Hoke Middle
+470328	PK-05	Scurlock Elementary
+470330	PK-05	Hawk Eye Elementary
+470332	06-08	East Hoke Middle
+470336	PK-05	West Hoke Elementary
+470340	PK-05	Rockfish Hoke Elementary
+470342	06-12	J W Turlington
+470346	PK-05	Upchurch Elementary
+470441	PK-05	Sandy Grove Elementary
+470443	09-13	SandHoke Early College High
+470LEA		Hoke County Schools
+480306	PK-05	Mattamuskeet Elementary
+480316	PK-12	Ocracoke School
+480318	06-13	Mattamuskeet Early College High
+480LEA		Hyde County Schools
+490308	06-08	Brawley Middle
+490312	PK-05	Celeste Henkel Elementary
+490316	PK-05	Central Elementary
+490318	PK-05	Coddle Creek Elementary
+490319	PK-05	Cloverleaf Elementary
+490320	09-13	Collaborative College for Technology
+490324	PK-05	Cool Spring Elementary
+490326	PK-05	East Iredell Elementary
+490327	06-08	East Iredell Middle
+490332	PK-05	Harmony Elementary
+490335	09-12	Lake Norman High
+490336	PK-05	Lake Norman Elementary
+490337	PK-05	Lakeshore Elementary
+490338	06-08	Lakeshore Middle
+490342	0K-12	Monticello School
+490344	06-08	Mount Mourne School
+490345	PK-05	N B Mills Elementary
+490346	09-12	North Iredell High
+490347	06-08	Northview School
+490348	PK-05	Scotts Elementary
+490349	06-08	North Iredell Middle
+490350	0K-12	Pressly School
+490352	06-08	Statesville Middle
+490354	09-12	Statesville High
+490355	09-13	Visual and Performing Arts Center
+490356	PK-05	Sharon Elementary
+490360	PK-05	Shepherd Elementary
+490362	09-12	South Iredell High
+490363	PK-05	Third Creek Elementary
+490364	PK-05	Troutman Elementary
+490366	06-08	Troutman Middle
+490368	PK-05	Union Grove Elementary
+490380	09-12	West Iredell High
+490384	06-08	West Iredell Middle
+490390	PK-05	Woodland Heights Elementary
+490LEA		Iredell-Statesville Schools
+491303	04-06	East Mooresville Intermediate
+491306	04-06	Mooresville Intermediate
+491308	07-08	Mooresville Middle
+491312	09-12	Mooresville Senior High
+491316	PK-03	Park View Elementary
+491318	PK-03	Rocky River Elementary
+491320	PK-03	South Elementary
+491LEA		Mooresville Graded School District
+49B000	0K-08	American Renaissance School
+49D000	0K-08	Success Institute Charter
+49E000	0K-12	Pine Lake Preparatory
+500302	07-13	Blue Ridge Early College
+500304	0K-08	Cullowhee Valley School
+500314	0K-08	Fairview Elementary
+500316	0K-06	Blue Ridge School
+500323	09-13	Jackson Co Early College
+500324	0K-12	Jackson Co Sch of Alternatives
+500332	0K-08	Scotts Creek Elementary
+500337	0K-08	Smokey Mountain Elementary
+500340	09-12	Smoky Mountain High
+500LEA		Jackson County Schools
+50A000	0K-08	Summit Charter
+510308	PK-04	Benson Elementary
+510310	05-08	Benson Middle
+510324	09-12	Clayton High
+510326	0K-05	West Clayton Elementary
+510327	09-12	Cleveland High
+510328	PK-05	Cleveland Elementary
+510329	06-08	Cleveland Middle
+510330	PK-05	Cooper Elementary
+510332	PK-05	Corinth-Holders Elementary
+510333	09-12	Corinth Holders High
+510334	PK-05	Dixon Road Elementary
+510336	PK-05	East Clayton Elementary
+510340	PK-05	Four Oaks Elementary
+510342	06-08	Four Oaks Middle
+510344	06-08	North Johnston Middle
+510356	PK-05	Glendale-Kenly Elementary
+510357	10-12	Johnston Co Middle College
+510358	PK-05	McGee's Crossroads Elem
+510359	06-08	McGee's Crossroads Middle
+510360	PK-08	Meadow School
+510364	06-08	Archer Lodge Middle
+510367	09-13	Johnston Co Early College Academy
+510368	09-12	North Johnston High
+510372	0K-05	Micro-Pine Level Elementary
+510373	PK-05	Powhatan Elementary
+510374	PK-05	Princeton Elementary
+510376	06-12	Princeton High
+510377	PK-05	River Dell Elementary
+510378	0K-05	Riverwood Elementary
+510379	06-08	Riverwood Middle
+510380	09-12	South Campus Community High
+510381	06-08	South Campus Community Middle
+510388	PK-05	Selma Elementary
+510390	06-08	Selma Middle School
+510396	PK-05	West Smithfield Elementary
+510397	06-08	Smithfield Middle
+510399	09-12	Smithfield-Selma High
+510402	09-12	South Johnston High
+510404	PK-05	South Smithfield Elementary
+510406	09-12	West Johnston High
+510408	0K-05	Wilson's Mills Elementary
+510410	PK-05	Polenta Elementary
+510412	06-08	Clayton Middle
+510414	PK-05	West View Elementary
+510LEA		Johnston County Schools
+51A000	0K-11	Neuse Charter School
+520304	PK-06	Pollocksville Elementary
+520308	PK-06	Comfort Elementary
+520320	09-12	Jones Senior High
+520324	07-08	Jones Middle
+520328	PK-06	Maysville Elementary
+520336	PK-06	Trenton Elementary
+520LEA		Jones County Schools
+530302	0K-05	Benjamin T Bullock Elem
+530306	06-12	Bragg Street Academy
+530308	0K-05	Broadway Elementary
+530312	0K-05	Deep River Elementary
+530314	06-08	East Lee Middle
+530316	PK-12	Floyd L Knight Children Center
+530320	0K-05	Greenwood Elementary
+530335	09-13	Lee Early College
+530336	09-12	Lee County High
+530340	0K-05	J Glenn Edwards Elementary
+530341	06-08	SanLee Middle School
+530343	09-12	Southern Lee High School
+530346	0K-05	Tramway Elementary
+530354	0K-05	J R Ingram Jr Elementary
+530356	06-08	West Lee Middle
+530358	PK-05	Warren Williams Elementary Alternative
+530LEA		Lee County Schools
+540304	0K-05	Banks Elementary
+540308	PK-08	Contentnea-Savannah School
+540312	06-08	E B Frink Middle
+540315	09-12	Kinston High
+540316	PK-05	LaGrange Elementary
+540317	09-13	Lenoir County Early College High
+540318	PK-12	Sampson School
+540320	0K-05	Moss Hill Elementary
+540324	09-12	North Lenoir High
+540325	PK-05	Northeast Elementary
+540326	0K-05	Northwest Elementary
+540328	PK-05	Pink Hill Elementary
+540330	06-08	Rochelle Middle
+540336	09-12	South Lenoir High
+540338	PK-05	Southeast Elementary
+540340	0K-05	Southwood Elementary
+540344	06-08	Woodington Middle
+540LEA		Lenoir County Public Schools
+54A000	0K-08	Children's Village Academy
+54B000	0K-08	Kinston Charter Academy
+550308	07-12	Asbury School
+550312	0K-03	Battleground Elementary
+550314	PK-05	Catawba Springs Elementary
+550316	PK-03	GE Massey Elementary
+550320	09-12	East Lincoln High
+550322	06-08	East Lincoln Middle
+550324	04-05	Kiser Intermediate
+550328	PK-05	Iron Station Elementary
+550332	09-12	Lincolnton High
+550334	06-08	Lincolnton Middle
+550336	PK-05	Love Memorial Elementary
+550340	PK-05	Childers Elementary
+550342	PK-05	North Brook Elementary
+550344	09-12	North Lincoln High
+550349	03-05	Pumpkin Center Intermediate
+550350	06-08	North Lincoln Middle
+550356	PK-05	Rock Springs Elementary
+550360	PK-03	S Ray Lowder Elementary
+550362	PK-05	St James Elementary
+550364	0K-05	Union Elementary
+550368	09-12	West Lincoln High
+550372	06-08	West Lincoln Middle
+550LEA		Lincoln County Schools
+55A000	0K-12	Lincoln Charter School
+560304	PK-04	Cartoogechaye Elementary
+560316	0K-04	East Franklin Elementary
+560320	09-12	Franklin High
+560324	0K-12	Highlands School
+560328	PK-04	Iotla Valley Elementary
+560329	09-13	Macon Early College High School
+560330	07-08	Macon Middle School
+560331	05-06	Mountain View Intermediate
+560332	0K-12	Nantahala School
+560338	PK-04	South Macon Elementary
+560350	06-12	Union Academy
+560LEA		Macon County Schools
+570306	0K-05	Brush Creek Elementary
+570312	0K-05	Hot Springs Elementary
+570316	0K-05	Laurel Elementary
+570317	09-13	Madison Early College High
+570318	09-12	Madison High
+570319	06-08	Madison Middle
+570320	0K-05	Mars Hill Elementary
+570LEA		Madison County Schools
+580312	03-05	E J Hayes Elementary
+580316	PK-05	East End Elementary
+580320	PK-05	Edna Andrews Elementary
+580324	PK-05	Jamesville Elementary
+580328	06-08	Jamesville Middle
+580344	09-12	South Creek High
+580350	06-08	South Creek Middle
+580356	0K-05	Rodgers Elementary
+580368	09-12	Riverside High
+580372	06-08	Riverside Middle
+580LEA		Martin County Schools
+58B000	06-12	Bear Grass
+590306	PK-08	Eastfield Global Magnet School
+590310	07-09	East McDowell Junior High
+590316	PK-06	Glenwood Elementary
+590320	PK-06	Marion Elementary
+590328	09-13	McDowell Early College
+590330	09-12	McDowell High
+590332	PK-06	Nebo Elementary
+590336	PK-06	North Cove Elementary
+590340	PK-06	Old Fort Elementary
+590344	PK-06	Pleasant Gardens Elementary
+590352	PK-06	West Marion Elementary
+590356	07-09	West McDowell Junior High
+590LEA		McDowell County Schools
+600300	PK-05	Albemarle Road Elementary
+600301	06-08	Albemarle Road Middle
+600302	09-12	Ardrey Kell High
+600305	06-08	J M Alexander Middle
+600308	0K-05	Allenbrook Elementary
+600311	PK-08	Ashley Park PreK-8 School
+600312	09-12	William Amos Hough High
+600313	06-08	Bailey Middle
+600314	0K-05	Bain Elementary
+600316	0K-05	Barringer Academic Center
+600317	06-08	Whitewater Middle
+600318	PK-05	Whitewater Academy
+600319	PK-08	Berryhill School
+600322	PK-05	Beverly Woods Elementary
+600328	0K-05	Barnette Elementary
+600329	0K-05	Briarwood Elementary
+600333	06-08	Carmel Middle
+600334	11-12	Cato Middle College High
+600335	PK-05	Billingsville Elementary
+600336	PK-06	Chantilly Montessori
+600338	PK-05	Clear Creek Elementary
+600341	06-10	Cochrane Collegiate Academy
+600344	0K-08	Collinswood Language Academy
+600345	06-08	Community House Middle
+600346	0K-05	Cornelius Elementary
+600349	0K-05	Cotswold Elementary
+600351	06-08	Coulwood Middle
+600352	PK-05	Crown Point Elementary
+600353	06-08	Crestdale Middle
+600357	0K-05	Davidson Elementary
+600361	09-12	Butler High
+600362	PK-05	David Cox Road Elementary
+600364	0K-12	MG Davis Military & Global Lead Academy
+600365	0K-05	Devonshire Elementary
+600367	0K-05	Dilworth Elementary
+600368	0K-05	First Ward Arts Elementary
+600369	PK-05	Berewick Elementary
+600374	PK-08	Druid Hills Academy
+600377	09-12	East Mecklenburg High
+600379	PK-05	Eastover Elementary
+600381	06-08	Eastway Middle
+600382	0K-05	Elizabeth Lane Elementary
+600383	0K-05	Elon Park Elementary
+600384	0K-05	Elizabeth Traditional Elementary
+600385	0K-05	Endhaven Elementary
+600386	06-12	Hawthorne High
+600392	0K-05	Polo Ridge Elementary
+600394	06-08	Francis Bradley Middle
+600397	09-12	Garinger High
+600398	PK-05	Greenway Park Elementary
+600399	06-08	Alexander Graham Middle
+600405	09-12	Harding University High
+600406	0K-05	Hawk Ridge Elementary
+600410	PK-05	Hickory Grove Elementary
+600411	0K-05	Highland Creek Elementary
+600412	0K-05	Hidden Valley Elementary
+600413	PK-06	Highland Mill Montessori
+600414	PK-05	Highland Renaissance Academy
+600415	09-12	Hopewell High
+600416	0K-05	Hornets Nest Elementary
+600418	0K-05	Croft Community Elementary
+600420	0K-05	Huntersville Elementary
+600422	0K-05	Huntingtowne Farms Elementary
+600424	PK-05	Idlewild Elementary
+600426	09-12	Independence High
+600428	06-08	James Martin Middle
+600429	0K-08	John M. Morehead STEM Academy
+600431	06-08	Jay M Robinson Middle
+600432	PK-05	Joseph W Grier Academy
+600433	0K-05	J.V. Washam Elementary
+600434	06-08	Kennedy Middle
+600436	PK-05	Lake Wylie Elementary
+600437	0K-05	Ballantyne Elementary
+600438	0K-05	Lansdowne Elementary
+600439	04-12	Turning Point Academy
+600440	PK-05	Lebanon Road Elementary
+600442	PK-05	Blythe Elementary
+600444	PK-05	Long Creek Elementary
+600445	09-12	Mallard Creek High
+600446	0K-05	Mallard Creek Elementary
+600447	PK-05	Matthews Elementary
+600448	06-08	Martin Luther King Jr Middle
+600449	PK-05	McAlpine Elementary
+600450	06-08	McClintock Middle
+600451	0K-05	McKee Road Elementary
+600453	PK-05	Merry Oaks Elementary
+600454	SP-ED	Metro School
+600455	06-08	Mint Hill Middle
+600457	09-12	Rocky River High
+600459	PK-05	Montclaire Elementary
+600461	SP-ED	Lincoln Heights Academy
+600462	PK-05	Mountain Island Elementary
+600463	PK-05	River Oaks Academy
+600464	0K-05	Myers Park Traditional
+600466	09-12	Myers Park High
+600468	PK-05	Nathaniel Alexander Elementary
+600471	PK-05	Nations Ford Elementary
+600474	0K-05	Newell Elementary
+600478	0K-05	J H Gunn Elementary
+600479	06-08	Northeast Middle
+600480	09-12	North Mecklenburg High
+600481	06-08	Northridge Middle
+600482	06-12	Northwest School of the Arts
+600485	0K-05	Oakdale Elementary
+600488	0K-08	Oaklawn Language Academy
+600489	PK-08	Bruns Academy
+600491	0K-05	Olde Providence Elementary
+600492	PK-06	Park Road Montessori
+600494	PK-05	Paw Creek Elementary
+600496	09-12	Phillip O Berry Academy of Technology
+600497	06-08	Piedmont IB Middle
+600498	09-12	Performance Learning Center
+600500	0K-05	Pineville Elementary
+600501	PK-05	Pinewood Elementary
+600503	PK-05	Piney Grove Elementary
+600507	0K-05	Providence Spring Elementary
+600508	09-12	Providence High
+600509	06-08	Quail Hollow Middle
+600512	PK-05	Rama Road Elementary
+600513	06-08	Randolph Middle
+600514	06-08	Ranson Middle
+600516	PK-05	Reedy Creek Elementary
+600517	PK-08	Reid Park Academy
+600518	06-08	Ridge Road Middle
+600519	PK-05	Sedgefield Elementary
+600520	06-08	Sedgefield Middle
+600521	0K-05	Stoney Creek Elementary
+600522	0K-05	Selwyn Elementary
+600527	PK-05	Shamrock Gardens Elementary
+600530	0K-05	Sharon Elementary
+600532	0K-08	Waddell Language Academy
+600534	PK-05	Smithfield Elementary
+600535	09-12	South Mecklenburg High
+600537	06-08	South Charlotte Middle
+600538	06-08	Southwest Middle School
+600546	PK-05	Statesville Road Elementary
+600549	0K-05	Steele Creek Elementary
+600550	PK-05	Sterling Elementary
+600553	PK-08	Thomasboro Academy
+600557	0K-05	Torrence Creek Elementary
+600562	0K-05	Tuckaseegee Elementary
+600565	0K-05	University Park Creative Arts
+600566	PK-05	University Meadows Elementary
+600571	0K-05	Irwin Academic Center
+600574	PK-08	Walter G Byers School
+600576	09-12	West Charlotte High
+600577	PK-08	Westerly Hills Academy
+600579	09-12	West Mecklenburg High
+600586	PK-05	Winding Springs Elementary
+600587	PK-05	Windsor Park Elementary
+600588	0K-05	Winget Park Elementary
+600589	PK-05	Winterfield Elementary
+600590	0K-05	River Gate Elementary
+600592	09-12	Vance High
+600693	09-12	Olympic High - Renaissance School
+600694	09-12	Olympic High-Math Eng Tech Science
+600695	09-12	Olympic High - Intl Study & Global Econ
+600696	09-12	Olympic High -Intl Bus & Comm Studies
+600697	09-12	Olympic High - Biotech Health Pub Admin
+600LEA		Charlotte-Mecklenburg Schools
+60A000	0K-05	Community Charter School
+60B000	0K-08	Sugar Creek Charter
+60C000	0K-12	Kennedy Charter
+60D000	05-12	Lake Norman Charter
+60F000	0K-08	Metrolina Reg Scholars Academy
+60G000	0K-12	Queens Grant Community
+60H000	09-12	Crossroads Charter High
+60I000	0K-11	Community School of Davidson
+60J000	0K-08	Socrates Academy
+60K000	06-08	Charlotte Secondary
+60L000	05-08	KIPP Charlotte
+60M000	0K-04	Corvian Community School
+610302	05-08	Bowman Middle
+610310	03-05	Deyton Elementary
+610320	0K-04	Gouge Elementary
+610326	06-08	Harris Middle
+610332	09-12	Mayland Early College
+610334	09-12	Mitchell High
+610LEA		Mitchell County Schools
+620310	06-12	Montgomery Learning Academy
+620312	PK-05	Candor Elementary
+620314	06-08	East Middle
+620316	09-12	East Montgomery High
+620318	PK-05	Green Ridge Elementary
+620324	PK-05	Mount Gilead Elementary
+620330	03-05	Page Street Elementary
+620334	PK-05	Star Elementary
+620339	06-08	West Middle
+620340	09-12	West Montgomery High
+620LEA		Montgomery County Schools
+630308	03-05	Aberdeen Elementary
+630312	0K-05	Cameron Elementary
+630316	PK-05	Carthage Elementary
+630317	06-08	Crain's Creek Middle
+630320	06-08	Elise Middle
+630324	0K-05	Sandhills Farm Life Elementary
+630328	0K-08	Highfalls Elementary
+630330	06-12	Pinckney Academy
+630331	06-08	New Century Middle
+630332	09-12	North Moore High
+630336	09-12	Pinecrest High
+630342	0K-05	Pinehurst Elementary
+630348	PK-05	Robbins Elementary
+630350	06-08	Southern Middle
+630356	03-05	Southern Pines Elementary
+630360	09-12	Union Pines High
+630364	PK-05	Vass-Lakeview Elementary
+630368	PK-05	West End Elementary
+630373	0K-05	West Pine Elementary
+630374	06-08	West Pine Middle
+630376	0K-08	Westmoore Elementary
+630LEA		Moore County Schools
+63A000	0K-05	The Academy of Moore County
+63B000	0K-08	Sandhills Theatre Arts Renaiss
+640304	PK-05	Bailey Elementary
+640306	0K-05	Baskerville Elementary
+640308	0K-05	Benvenue Elementary
+640316	PK-05	Cedar Grove Elementary
+640320	06-08	Nash Central Middle
+640324	PK-05	Coopers Elementary
+640326	PK-05	D S Johnson Elementary
+640328	03-05	Englewood Elementary
+640329	06-08	G R Edwards Middle
+640332	0K-05	M B Hubbard Elementary
+640334	06-08	J W Parker Middle
+640336	PK-05	Middlesex Elementary
+640340	06-12	Tar River Academy
+640346	09-12	Nash Central High
+640347	09-13	NRM Early College High School
+640348	PK-05	Nashville Elementary
+640350	09-12	Northern Nash High
+640354	0K-05	O R Pope Elementary
+640358	06-08	Red Oak Middle
+640361	09-12	Rocky Mount High
+640362	06-08	Southern Nash Middle
+640364	09-12	Southern Nash High
+640376	PK-05	Spring Hope Elementary
+640384	PK-05	Swift Creek Elementary
+640396	0K-05	Williford Elementary
+640LEA		Nash-Rocky Mount Schools
+64A000	0K-12	Rocky Mount Preparatory
+650304	0K-05	Bradley Creek Elementary
+650308	PK-05	Carolina Beach Elementary
+650309	PK-05	Castle Hayne Elementary
+650310	06-08	Charles P Murray Middle
+650312	PK-05	R Freeman Sch of Engineering
+650316	0K-05	College Park Elementary
+650323	0K-05	Edwin A Anderson Elementary
+650324	0K-05	Edwin A Alderman Elementary
+650325	06-08	Emma B Trask Middle
+650326	09-12	Emsley A Laney High
+650327	09-12	Eugene Ashley High
+650328	PK-05	Forest Hills Global Elementary
+650332	0K-05	Gregory School of Math, Science, and Tec
+650338	PK-05	Heyward C Bellamy Elem
+650339	0K-05	Holly Tree Elementary
+650340	09-12	Isaac M Bear High
+650341	0K-05	John J Blair Elementary
+650342	09-12	John T Hoggard High
+650343	06-08	Holly Shelter Middle
+650345	0K-08	Lake Forest Academy
+650346	PK-05	Mary C Williams Elementary
+650348	PK-05	Murrayville Elementary
+650350	06-08	M C S Noble Middle
+650351	06-08	Myrtle Grove Middle
+650352	09-12	New Hanover High
+650353	PK-05	Dr Hubert Eaton Sr Elem
+650354	06-12	Lakeside
+650355	09-12	Mary Sidberry Mosley PLC
+650356	PK-05	Ogden Elementary
+650362	0K-05	Pine Valley Elementary
+650364	06-08	Roland-Grise Middle
+650366	0K-05	Dr John Codington Elem
+650368	0K-05	Sunset Park Elementary
+650380	PK-05	Walter L Parsley Elementary
+650384	PK-05	A H Snipes Academy of Arts/Des
+650392	06-08	Williston Middle
+650394	09-13	Wilmington Early College High
+650400	0K-05	Winter Park Model Elementary
+650404	PK-05	Wrightsboro Elementary
+650408	0K-05	Wrightsville Beach Elem
+650409	06-06	D.C. Virgo Preparatory Academy
+650LEA		New Hanover County Schools
+65A000	0K-08	Cape Fear Center for Inquiry
+65B000	0K-08	Wilmington Preparatory Academy
+660306	PK-04	Central Elementary
+660308	05-08	Conway Middle
+660320	01-04	Gaston Elementary
+660325	05-08	Gaston Middle
+660334	0K-12	Northampton County Alternative School
+660336	09-12	Northampton County High School
+660360	PK-04	Willis Hare Elementary
+660LEA		Northampton County Schools
+66A000	0K-12	Gaston College Preparatory
+670304	0K-05	Bell Fork Elementary
+670308	0K-05	Blue Creek Elementary
+670310	0K-05	Carolina Forest Elementary
+670312	0K-05	Clyde Erwin Elementary
+670314	PK-05	Dixon Elementary
+670318	06-08	Dixon Middle
+670320	09-12	Dixon High
+670321	PK-05	Hunters Creek Elementary
+670322	06-08	Hunters Creek Middle
+670323	0K-05	Jacksonville Commons Elem
+670324	09-12	Jacksonville High
+670325	06-08	Jacksonville Commons Middle
+670329	0K-05	Meadow View Elementary
+670330	PK-05	Morton Elementary
+670331	06-08	New Bridge Middle
+670332	0K-05	Northwoods Elementary
+670333	09-12	Northside High
+670335	PK-05	Queens Creek Elementary
+670336	06-08	Northwoods Park Middle
+670338	0K-05	Parkwood Elementary
+670339	03-05	Richlands Elementary
+670340	09-12	Richlands High
+670341	0K-05	Sand Ridge Elementary
+670342	0K-05	Silverdale Elementary
+670343	PK-05	Southwest Elementary
+670344	09-12	Southwest High
+670345	06-08	Southwest Middle
+670346	PK-05	Summersill Elementary
+670347	0K-05	Stateside Elementary
+670350	0K-05	Swansboro Elementary
+670351	06-08	Swansboro Middle
+670352	09-12	Swansboro High
+670356	06-08	Trexler Middle
+670364	09-12	White Oak High
+670LEA		Onslow County Schools
+680304	06-08	A L Stanback Middle
+680308	0K-05	Cameron Park Elementary
+680310	09-12	Cedar Ridge High
+680312	PK-05	Central Elementary
+680316	06-08	Charles W Stanford Middle
+680324	PK-05	Efland Cheeks Elementary
+680327	06-08	Gravelly Hill Middle
+680328	PK-05	Grady Brown Elementary
+680329	0K-05	Hillsborough Elementary
+680330	PK-05	New Hope Elementary
+680332	09-12	Orange High
+680335	06-12	Partnership Academy
+680336	PK-05	Pathways Elementary
+680LEA		Orange County Schools
+681304	PK-05	Carrboro Elementary
+681305	09-12	Carrboro High
+681308	09-12	Chapel Hill High
+681309	06-08	McDougle Middle
+681310	PK-05	Seawell Elementary
+681311	PK-05	Ephesus Elementary
+681312	0K-05	Estes Hills Elementary
+681314	09-12	East Chapel Hill High
+681316	PK-05	Frank Porter Graham Elem
+681320	PK-05	Glenwood Elementary
+681322	06-08	Culbreth Middle
+681324	06-08	Phillips Middle
+681326	PK-05	McDougle Elementary
+681328	SP-ED	UNC Hospital School
+681330	PK-05	Scroggs Elementary
+681332	PK-05	Morris Grove Elementary
+681334	PK-05	Rashkis Elementary
+681336	06-08	Smith Middle
+681338	08-12	Phoenix Academy High
+681LEA		Chapel Hill-Carrboro City Schools
+68A000	0K-08	Orange Charter
+68N000	09-12	PACE Academy
+690312	03-05	Fred A Anderson Elementary
+690316	06-08	Pamlico County Middle
+690320	09-12	Pamlico County High
+690LEA		Pamlico County Schools
+69A000	0K-09	Arapahoe Charter School
+700306	0K-05	Central Elementary
+700308	06-08	Elizabeth City Middle
+700310	06-12	H L Trigg Community
+700314	0K-05	Northside Elementary
+700316	0K-05	J C Sawyer Elementary
+700317	09-12	Northeastern High
+700318	0K-05	Pasquotank Elementary
+700319	09-12	Pasquotank County High
+700320	0K-05	P W Moore Elementary
+700322	06-08	River Road Middle
+700324	PK-05	Sheep-Harney Elementary
+700328	0K-05	Weeksville Elementary
+700LEA		Elizabeth City-Pasquotank Public Schools
+710312	PK-05	Burgaw Elementary
+710316	06-08	Burgaw Middle
+710318	03-05	Cape Fear Elementary
+710320	06-08	Cape Fear Middle
+710321	09-12	Heide Trask High
+710323	PK-05	North Topsail Elementary
+710324	PK-05	Malpass Corner Elementary
+710326	PK-12	Pender High
+710327	09-13	Pender Early College High
+710328	0K-08	Penderlea Elementary
+710342	09-12	Topsail High
+710344	PK-06	Topsail Elementary
+710346	06-08	Topsail Middle
+710347	PK-05	South Topsail Elementary
+710348	06-08	West Pender Middle
+710LEA		Pender County Schools
+720312	03-05	Hertford Grammar
+720316	09-12	Perquimans County High
+720320	06-08	Perquimans County Middle
+720LEA		Perquimans County Schools
+730332	0K-05	Helena Elementary
+730334	0K-05	North Elementary
+730340	0K-05	North End Elementary
+730344	06-08	Northern Middle
+730348	0K-05	Oak Lane Elementary
+730352	09-12	Person High
+730354	0K-05	Stories Creek Elementary
+730356	PK-05	South Elementary
+730360	06-08	Southern Middle
+730368	0K-05	Woodland Elementary
+730LEA		Person County Schools
+73A000	0K-06	Bethel Hill Charter
+73B000	06-12	Roxboro Community School
+740302	06-08	A G Cox Middle
+740304	PK-05	Ayden Elementary
+740308	06-08	Ayden Middle
+740309	09-12	Ayden-Grifton High
+740310	PK-05	Belvoir Elementary
+740320	PK-08	Bethel Elementary
+740324	06-08	C M Eppes Middle
+740330	PK-05	Creekside Elementary
+740332	PK-08	Chicod
+740333	09-12	D H Conley High
+740334	0K-05	Falkland Elementary
+740336	0K-05	Eastern Elementary
+740337	06-08	E B Aycock Middle
+740338	0K-05	Elmhurst Elementary
+740340	06-08	Farmville Middle
+740344	09-12	Farmville Central High
+740352	PK-08	Grifton
+740358	PK-08	G R Whitfield
+740362	06-08	Hope Middle
+740366	09-12	Junius H Rose High
+740368	PK-05	Lakeforest Elementary
+740374	09-12	North Pitt High
+740375	PK-05	Northwest Elementary
+740376	PK-08	Pactolus
+740378	SP-ED	Pitt Memorial Hospital
+740379	0K-05	Ridgewood Elementary
+740380	PK-05	W H Robinson Elementary
+740386	03-05	Sam D Bundy Elementary
+740388	09-12	South Central High
+740390	0K-05	South Greenville Elementary
+740396	PK-08	Stokes
+740400	0K-05	Wahl Coates Elementary
+740402	06-08	Wellcome Middle
+740404	03-05	Wintergreen Intermediate
+740LEA		Pitt County Schools
+750304	PK-05	Tryon Elementary
+750314	PK-05	Polk Central
+750317	09-13	Polk County Early College
+750318	09-12	Polk County High
+750319	06-08	Polk County Middle
+750320	PK-05	Saluda Elementary
+750328	PK-05	Sunny View Elementary
+750LEA		Polk County Schools
+760304	0K-05	Archdale Elementary
+760308	06-06	Braxton Craven Middle
+760316	0K-05	Coleridge Elementary
+760318	09-12	Eastern Randolph High
+760320	0K-05	Farmer Elementary
+760324	0K-05	Franklinville Elementary
+760328	0K-05	Grays Chapel Elementary
+760329	0K-05	Hopewell Elementary
+760330	0K-05	John R Lawrence Elementary
+760331	PK-05	Level Cross Elementary
+760332	PK-05	Liberty Elementary
+760336	0K-05	New Market Elementary
+760338	06-08	Northeastern Randolph Middle
+760339	09-12	Providence Grove High
+760340	PK-05	Ramseur Elementary
+760344	0K-05	Randleman Elementary
+760348	09-12	Randleman High
+760352	06-08	Randleman Middle
+760354	09-13	Randolph Early College High
+760356	0K-05	Seagrove Elementary
+760357	06-08	Southeastern Randolph Middle
+760358	09-12	Southwestern Randolph High
+760359	PK-05	Southmont Elementary
+760360	06-08	Southwestern Randolph Middle
+760364	PK-05	Tabernacle Elementary
+760368	PK-05	Trindale Elementary
+760376	0K-05	Trinity Elementary
+760378	07-08	Archdale-Trinity Middle
+760380	09-12	Trinity High
+760382	06-08	Uwharrie Middle
+760388	09-12	Wheatmore High
+760LEA		Randolph County Schools
+761304	09-12	Asheboro High
+761308	06-08	South Asheboro Middle
+761312	0K-05	Balfour Elementary
+761320	PK-05	Charles W McCrary Elementary
+761321	PK-05	Donna L Loflin Elementary
+761328	PK-05	Guy B Teachey Elementary
+761332	0K-05	Lindley Park Elementary
+761336	06-08	North Asheboro Middle
+761LEA		Asheboro City Schools
+770310	PK-05	East Rockingham Elementary
+770312	PK-12	Cordova School
+770316	06-08	Ellerbe Middle
+770318	PK-05	Fairview Heights Elementary
+770328	06-08	Hamlet Middle
+770340	PK-05	L J Bell Elementary
+770342	07-12	Leak Street High
+770344	PK-05	Mineral Springs Elementary
+770346	PK-05	Monroe Avenue Elementary
+770348	10-12	Richmond Senior High
+770349	09-13	Richmond Early College High
+770351	09-09	Richmond 9th Grade Academy
+770352	09-12	Richmond Co Transitional
+770360	06-08	Rockingham Middle
+770364	06-08	Rohanen Middle
+770368	PK-05	West Rockingham Elementary
+770370	PK-05	Washington Street Elementary
+770LEA		Richmond County Schools
+780320	PK-06	Deep Branch Elementary
+780322	PK-03	East Robeson Primary
+780324	04-08	Fairgrove Middle
+780325	09-12	Fairmont High
+780326	05-08	Fairmont Middle
+780328	PK-03	Green Grove Elementary
+780329	PK-04	Janie C Hargrave Elem
+780330	05-06	L Gilbert Carroll Middle
+780336	04-08	Littlefield Middle
+780340	PK-04	Long Branch Elementary
+780341	07-08	Lumberton Junior High
+780342	09-12	Lumberton Senior High
+780344	PK-08	Magnolia Elementary
+780352	05-08	Orrum Middle
+780356	PK-06	Oxendine Elementary
+780360	PK-08	Parkton Elementary
+780364	PK-05	Pembroke Elementary
+780368	06-08	Pembroke Middle
+780374	PK-04	Peterson Elementary
+780376	PK-06	Piney Grove Elementary
+780384	PK-08	Prospect Elementary
+780385	09-13	PSRC Early College at RCC
+780390	PK-04	R B Dean Elementary
+780391	09-12	Red Springs High
+780392	PK-05	Rex-Rennert Elementary
+780393	05-08	Red Springs Middle
+780394	PK-04	Rosenwald Elementary
+780396	06-08	Rowland Middle
+780398	PK-04	Rowland Norment Elementary
+780400	PK-05	Saint Pauls Elementary
+780401	09-12	Saint Pauls High
+780402	09-12	South Robeson High
+780403	06-08	Saint Pauls Middle
+780407	0K-04	Tanglewood Elementary
+780408	PK-05	Southside/Ashpole Elem
+780410	05-08	Townsend Middle
+780412	PK-06	Union Chapel Elementary
+780416	PK-06	Union Elementary
+780417	PK-04	W H Knuckles
+780418	PK-04	West Lumberton Elementary
+780420	09-12	Purnell Swett High
+780LEA		Public Schools of Robeson County
+78A000	06-08	CIS Academy
+790302	PK-05	Bethany Elementary
+790310	0K-05	Central Elementary
+790314	09-12	Dalton McMichael High
+790318	PK-05	Douglass Elementary
+790322	PK-05	Draper Elementary
+790327	PK-05	Huntsville Elementary
+790330	06-08	J E Holmes Middle
+790334	PK-05	John W Dillard Elementary
+790338	PK-05	Lawsonville Ave Elem
+790344	PK-05	Leaksville-Spray Elementary
+790347	PK-05	Lincoln Elementary
+790350	PK-05	Monroeton Elementary
+790354	09-12	John M Morehead High
+790358	PK-05	Moss Street Elementary
+790362	0K-05	New Vision Sch.of Math/Sci/Tec
+790366	09-12	Reidsville High
+790374	06-08	Reidsville Middle
+790378	09-12	Rockingham County High
+790379	09-13	Rockingham Co Early College High
+790380	06-08	Rockingham County Middle
+790386	PK-05	South End Elementary
+790390	PK-05	Stoneville Elementary
+790392	0K-12	The SCORE Center
+790394	06-08	Western Rockingham Middle
+790398	PK-05	Wentworth Elementary
+790402	PK-05	Williamsburg Elementary
+790LEA		Rockingham County Schools
+79A000	06-08	Bethany Community Middle
+800308	08-12	Henderson High
+800312	0K-05	Bostian Elementary
+800314	06-08	Erwin Middle
+800315	0K-05	Overton Elementary
+800316	PK-05	China Grove Elementary
+800320	06-08	China Grove Middle
+800324	0K-05	Cleveland Elementary
+800328	06-08	Corriher Lipe Middle
+800340	09-12	East Rowan High
+800346	0K-05	Koontz Elementary
+800347	PK-05	Shive Elementary
+800348	0K-05	Enochville Elementary
+800352	0K-05	Faith Elementary
+800356	PK-05	Granite Quarry Elementary
+800358	PK-05	Isenberg Elementary
+800359	PK-05	Dole Elementary
+800360	0K-05	Hurley Elementary
+800361	09-12	Carson High
+800362	0K-05	Knollwood Elementary
+800363	06-08	Knox Middle
+800364	PK-05	Landis Elementary
+800366	PK-05	Millbridge Elementary
+800368	PK-05	Morgan Elementary
+800372	0K-05	Mt Ulla Elementary
+800373	PK-05	North Rowan Elementary
+800376	09-12	North Rowan High
+800377	06-08	North Rowan Middle
+800392	PK-05	Rockwell Elementary
+800394	09-12	Rowan Co Early College
+800396	09-12	Salisbury High
+800398	06-08	Southeast Middle
+800400	09-12	South Rowan High
+800408	09-12	West Rowan High
+800410	06-08	West Rowan Middle
+800412	PK-05	Woodleaf Elementary
+800LEA		Rowan-Salisbury Schools
+810324	09-12	Chase High
+810326	06-08	Chase Middle
+810328	0K-05	Cliffside Elementary
+810336	PK-05	Forest City-Dunbar Elementary
+810340	09-12	East Rutherford High
+810342	06-08	East Rutherford Middle
+810344	PK-05	Ellenboro Elementary
+810350	PK-05	Forrest W Hunt Elementary
+810360	PK-05	Harris Elementary
+810364	PK-05	Mt Vernon-Ruth Elementary
+810370	PK-05	Pinnacle Elementary
+810378	06-08	R-S Middle
+810384	09-12	R-S Central High
+810385	09-13	Rutherford Early College High
+810386	06-12	Rutherford Opportunity Center
+810388	PK-05	Rutherfordton Elementary
+810396	PK-05	Spindale Elementary
+810400	PK-05	Sunshine Elementary
+810LEA		Rutherford County Schools
+81A000	0K-12	Thomas Jefferson Class Academy
+81B000	0K-09	Lake Lure Classical Academy
+820312	PK-05	Roseboro Elementary
+820320	PK-05	Clement Elementary
+820324	09-13	Sampson Early College High
+820340	PK-05	Hargrove Elementary
+820346	PK-05	Hobbton Elementary
+820347	06-08	Hobbton Middle
+820348	09-12	Hobbton High
+820349	09-12	Lakewood High
+820350	PK-05	Midway Elementary
+820352	09-12	Midway High
+820354	06-08	Midway Middle
+820364	0K-05	Plain View Elementary
+820370	06-08	Union Middle
+820372	06-08	Roseboro-Salemburg Middle
+820376	PK-05	Salemburg Elementary
+820384	PK-03	Union Elementary
+820385	04-05	Union Intermediate
+820388	09-12	Union High
+820LEA		Sampson County Schools
+821304	02-03	Butler Avenue Elementary
+821308	09-12	Clinton High
+821320	06-08	Sampson Middle
+821330	04-05	Sunset Avenue Elementary
+821LEA		Clinton City Schools
+830304	06-08	Carver Middle
+830312	0K-05	Covington Street Elementary
+830316	06-12	Shaw Academy
+830320	PK-05	I E Johnson Elementary
+830328	PK-05	Laurel Hill Elementary
+830336	PK-05	North Laurinburg Elementary
+830343	09-12	Scotland High School
+830344	0K-05	Pate-Gardner Elementary
+830348	09-13	Scotland Early College High
+830349	06-08	Spring Hill Middle
+830350	06-08	Sycamore Lane Middle
+830356	PK-05	South Scotland Elementary
+830360	PK-05	Wagram Elementary
+830364	PK-05	Washington Park Elementary
+830LEA		Scotland County Schools
+840302	09-12	Albemarle High
+840303	06-08	Albemarle Middle
+840304	PK-05	Aquadale Elementary
+840308	0K-05	Badin Elementary
+840310	0K-05	Central Elementary
+840312	0K-05	Endy Elementary
+840316	0K-05	East Albemarle Elementary
+840320	0K-05	Locust Elementary
+840324	PK-05	Millingport Elementary
+840328	06-08	North Stanly Middle
+840332	09-12	North Stanly High
+840336	0K-05	Norwood Elementary
+840340	PK-05	Oakboro Elementary
+840344	0K-05	Richfield Elementary
+840350	06-08	West Stanly Middle School
+840356	09-12	South Stanly High
+840358	06-08	South Stanly Middle
+840360	PK-05	Stanfield Elementary
+840361	09-13	Stanly Early College High
+840368	09-12	West Stanly High
+840370	09-12	Stanly Academy Learning Center
+840LEA		Stanly County Schools
+84B000	09-12	Gray Stone Day
+850304	06-08	Chestnut Grove Middle
+850308	0K-05	Francisco Elementary
+850312	0K-05	Germanton Elementary
+850314	0K-05	Mount Olive Elementary
+850316	PK-05	King Elementary
+850320	PK-05	Lawsonville Elementary
+850324	06-12	Meadowbrook Academy
+850328	0K-05	Nancy Reynolds Elementary
+850332	09-12	North Stokes High
+850336	PK-05	Pine Hall Elementary
+850338	06-08	Piney Grove Middle
+850340	PK-05	Pinnacle Elementary
+850342	0K-05	Poplar Springs Elementary
+850348	0K-05	Sandy Ridge Elementary
+850350	06-08	Southeastern Stokes Middle
+850352	09-12	South Stokes High
+850354	PK-05	London Elementary
+850356	PK-05	Walnut Cove Elementary
+850358	09-12	West Stokes High
+850360	09-12	Stokes Early College High
+850LEA		Stokes County Schools
+860302	PK-05	Cedar Ridge Elementary
+860306	06-08	Central Middle
+860308	PK-05	Copeland Elementary
+860312	PK-05	Dobson Elementary
+860316	09-12	East Surry High
+860320	PK-05	Flat Rock Elementary
+860324	PK-05	Franklin Elementary
+860326	06-08	J Sam Gentry Middle
+860330	06-08	Meadowview Middle
+860332	PK-05	Mountain Park Elementary
+860336	09-12	North Surry High
+860339	PK-05	Pilot Mountain Elementary
+860340	06-08	Pilot Mountain Middle
+860344	PK-05	Rockford Elementary
+860348	PK-05	Shoals Elementary
+860352	09-12	Surry Central High
+860354	09-13	Surry Early College HS Design
+860356	PK-05	Westfield Elementary
+860360	PK-05	White Plains Elementary
+860LEA		Surry County Schools
+861304	PK-06	Elkin Elementary
+861308	09-12	Elkin High
+861312	07-08	Elkin Middle
+861LEA		Elkin City Schools
+862310	03-05	Jones Elementary
+862312	09-12	Mount Airy High
+862316	06-08	Mount Airy Middle
+862LEA		Mount Airy City Schools
+86T000	0K-08	Millennium Charter Academy
+870314	09-12	Swain County High
+870318	PK-08	Swain County Middle
+870320	0K-05	Swain Co East Elementary
+870324	0K-05	Swain Co West Elementary
+870LEA		Swain County Schools
+87A000	0K-08	Mountain Discovery Charter
+880304	PK-05	Brevard Elementary
+880308	09-12	Brevard High
+880312	06-08	Brevard Middle
+880318	0K-05	Pisgah Forest Elementary
+880320	06-12	Davidson River School
+880324	PK-05	Rosman Elementary
+880328	09-12	Rosman High
+880330	06-08	Rosman Middle
+880336	0K-05	T C Henderson Elementary
+880LEA		Transylvania County Schools
+88A000	0K-08	Brevard Academy
+890304	09-13	Columbia High
+890306	06-08	Columbia Middle
+890308	PK-05	Tyrrell Elementary
+890LEA		Tyrrell County Schools
+900302	0K-05	Antioch Elementary
+900303	0K-05	Rea View Elementary
+900304	PK-05	Benton Heights Elementary
+900305	PK-05	New Town Elementary
+900306	PK-05	East Elementary
+900307	PK-05	Rocky River Elementary
+900308	06-08	East Union Middle
+900310	06-08	Cuthbertson Middle
+900311	09-12	Cuthbertson High
+900312	PK-05	Fairview Elementary
+900314	06-08	Monroe Middle
+900316	09-12	Forest Hills High
+900318	PK-05	Hemby Bridge Elementary
+900320	PK-05	Indian Trail Elementary
+900328	0K-05	Kensington Elementary
+900332	PK-05	Marshville Elementary
+900334	PK-05	Marvin Elementary
+900336	09-12	Monroe High
+900340	0K-05	New Salem Elementary
+900341	PK-05	Porter Ridge Elementary
+900342	09-12	Porter Ridge High School
+900343	06-08	Porter Ridge Middle School
+900344	09-12	Parkwood High
+900346	06-08	Parkwood Middle
+900347	0K-05	Poplin Elementary
+900348	09-12	Piedmont High
+900350	06-08	Piedmont Middle
+900351	PK-05	Rock Rest Elementary
+900352	0K-05	Prospect Elementary
+900353	0K-05	Sandy Ridge Elementary
+900354	PK-05	Sardis Elementary
+900356	PK-05	Shiloh Elementary
+900358	0K-05	Stallings Elementary
+900360	09-12	Sun Valley High
+900362	06-08	Sun Valley Middle
+900363	PK-05	Sun Valley Elementary
+900364	PK-05	Union Elementary
+900365	06-12	South Providence
+900366	09-12	Central Academy of Technology
+900367	09-13	Union County Early College
+900368	PK-05	Unionville Elementary
+900370	PK-05	Walter Bickett Elementary
+900372	PK-05	Waxhaw Elementary
+900376	PK-05	Weddington Elementary
+900377	09-12	Weddington High
+900378	06-08	Weddington Middle
+900380	0K-05	Wesley Chapel Elementary
+900384	0K-05	Western Union Elementary
+900388	PK-05	Wingate Elementary
+900391	06-08	Marvin Ridge Middle
+900392	04-12	Wolfe School
+900393	09-12	Marvin Ridge High
+900LEA		Union County Public Schools
+90A000	0K-12	Union Academy
+910304	PK-05	Aycock Elementary
+910308	PK-05	Carver Elementary
+910311	PK-05	Clarke Elementary
+910314	PK-05	Dabney Elementary
+910316	06-08	Eaton-Johnson Middle
+910320	06-08	Henderson Middle
+910340	PK-05	New Hope Elementary
+910346	PK-05	E O Young Jr Elementary
+910356	PK-05	Pinkston Street Elementary
+910360	PK-05	E M Rollins Elementary
+910364	09-12	Southern Vance High
+910368	09-12	Western Vance High
+910370	09-12	Northern Vance High
+910376	PK-05	L B Yancey Elementary
+910380	PK-05	Zeb Vance Elementary
+910382	09-13	Vance Co Early College
+910LEA		Vance County Schools
+91A000	0K-08	Vance Charter School
+91B000	04-06	Henderson Collegiate
+920302	PK-05	River Bend Elementary
+920304	PK-05	Adams Elementary
+920306	0K-05	Herbert Akins Rd Elementary
+920307	0K-05	Alston Ridge Elementary
+920308	0K-05	Apex Elementary
+920312	06-08	Apex Middle
+920316	09-12	Apex High
+920318	09-12	Athens Drive High
+920320	0K-05	Aversboro Elementary
+920324	06-12	Longview
+920325	0K-05	Banks Rd Elementary
+920326	0K-05	Baileywick Road Elementary
+920327	0K-05	Ballentine Elementary
+920328	0K-05	Baucom Elementary
+920329	0K-05	Barwell Road Elementary
+920334	0K-05	Brassfield Elementary
+920336	0K-05	Brentwood Elementary
+920340	0K-05	Briarcliff Elementary
+920342	0K-05	Brier Creek Elementary
+920344	0K-05	Brooks Elementary
+920348	09-12	Needham Broughton High
+920352	0K-05	Bugg Elementary
+920356	06-08	Carnage Middle
+920358	0K-05	Carpenter Elementary
+920360	06-08	Carroll Middle
+920362	PK-05	Carver Elementary
+920364	0K-05	Cary Elementary
+920368	09-12	Cary High
+920369	0K-05	Cedar Fork Elementary
+920370	06-08	Centennial Campus Middle
+920376	0K-05	Combs Elementary
+920380	0K-05	Conn Elementary
+920384	0K-05	Creech Road Elementary
+920388	06-08	Daniels Middle
+920390	0K-05	Davis Drive Elementary
+920391	06-08	Davis Drive Middle
+920393	0K-05	Dillard Drive Elementary
+920394	06-08	Dillard Drive Middle
+920396	0K-05	Douglas Elementary
+920398	0K-05	Durant Road Elementary
+920399	06-08	Durant Road Middle
+920400	06-08	Reedy Creek Middle
+920402	06-08	East Cary Middle
+920403	0K-05	East Garner Elementary
+920404	06-08	East Garner Middle
+920408	06-08	East Millbrook Middle
+920410	06-08	East Wake Middle
+920412	09-12	William G Enloe High
+920413	0K-05	Forestville Road Elementary
+920414	0K-05	Farmington Woods Elementary
+920415	0K-05	Fox Road Elementary
+920416	0K-05	Fuller Elementary
+920417	0K-05	Forest Pines Elementary
+920420	0K-05	Fuquay-Varina Elementary
+920424	06-08	Fuquay-Varina Middle
+920428	09-12	Fuquay-Varina High
+920436	09-12	Garner High
+920438	06-08	River Oaks Middle
+920439	0K-05	Green Hope Elementary
+920440	0K-05	Green Elementary
+920441	09-12	Green Hope High
+920442	0K-06	Hilburn Drive Academy
+920443	0K-05	Highcroft Elementary
+920444	06-08	Heritage Middle
+920445	09-12	Heritage High
+920446	0K-05	Hodge Road Elementary
+920447	0K-05	Holly Springs Elementary
+920448	0K-05	Hunter Elementary
+920449	0K-05	Holly Ridge Elementary
+920450	06-08	Holly Ridge Middle
+920451	0K-05	Harris Creek Elementary
+920452	0K-05	Jeffreys Grove Elementary
+920453	0K-05	Jones Dairy Elementary
+920454	0K-05	Heritage Elementary
+920455	09-12	Holly Springs High
+920456	0K-05	Joyner Elementary
+920457	0K-05	Holly Grove Elementary
+920458	06-08	Holly Grove Middle
+920460	0K-05	Kingswood Elementary
+920464	0K-05	Knightdale Elementary
+920466	09-12	Knightdale High
+920467	0K-05	Laurel Park Elementary
+920468	0K-05	Lacy Elementary
+920469	0K-05	Leesville Road Elementary
+920470	0K-05	Lead Mine Elementary
+920471	06-08	Leesville Road Middle
+920472	06-08	Ligon Middle
+920473	09-12	Leesville Road High
+920474	0K-05	Lake Myra Elementary
+920476	0K-05	Lincoln Heights Elementary
+920480	0K-05	Lockhart Elementary
+920484	06-08	Lufkin Road Middle
+920488	0K-05	Lynn Road Elementary
+920492	06-08	Martin Middle
+920494	0K-05	Middle Creek Elementary
+920495	09-12	Middle Creek High
+920496	PK-05	Millbrook Elementary
+920500	09-12	Millbrook High
+920501	0K-05	Mills Park Elementary
+920502	06-08	Mills Park Middle
+920504	0K-05	Morrisville Elementary
+920506	06-08	Moore Square Museum Magnet Middle
+920508	0K-08	Mount Vernon
+920512	06-08	North Garner Middle
+920514	0K-05	North Forest Pines Drive Elementary
+920516	0K-05	North Ridge Elementary
+920520	0K-05	Northwoods Elementary
+920522	0K-05	Oak Grove Elementary
+920523	0K-05	Olive Chapel Elementary
+920524	0K-05	Olds Elementary
+920525	0K-05	Partnership Elementary
+920526	09-12	Panther Creek High
+920528	09-12	Phillips High
+920530	0K-05	Penny Road Elementary
+920531	0K-05	Pleasant Union Elementary
+920532	PK-05	Poe Elementary
+920536	0K-05	Powell Elementary
+920540	0K-05	Rand Road Elementary
+920542	0K-05	Reedy Creek Elementary
+920543	0K-05	Richland Creek ES
+920544	PK-05	Rolesville Elementary
+920545	06-07	Rolesville Middle
+920548	0K-05	Root Elementary
+920550	0K-05	Salem Elementary
+920551	06-08	Salem Middle
+920552	09-12	Sanderson High
+920554	0K-05	Sanford Creek Elementary
+920560	PK-05	Smith Elementary
+920562	09-12	Southeast Raleigh High
+920564	0K-05	Stough Elementary
+920568	0K-05	Swift Creek Elementary
+920569	0K-05	Sycamore Creek Elementary
+920570	0K-05	Timber Drive Elementary
+920571	0K-05	Turner Creek Elementary
+920572	0K-05	Underwood Elementary
+920576	0K-05	Vance Elementary
+920580	0K-05	Vandora Springs Elementary
+920582	09-10	Wake NCSU STEM ECHS
+920583	09-13	Wake Early College of Health and Science
+920584	0K-05	Wake Forest Elementary
+920585	06-09	Wake Young Men's Leadership Academy
+920586	06-09	Wake Young Women's Leadership Academy
+920588	09-12	Wake Forest-Rolesville High
+920592	06-08	Wake Forest-Rolesville Mid
+920593	0K-05	Wakefield Elementary
+920594	06-08	Wakefield Middle
+920595	09-12	Wakefield High
+920596	0K-05	Washington Elementary
+920597	0K-05	Wakelon Elementary
+920598	0K-05	Weatherstone Elementary
+920599	0K-05	Walnut Creek ES
+920600	0K-05	Wendell Elementary
+920601	06-08	Wendell Middle
+920604	06-08	West Cary Middle
+920606	0K-05	West Lake Elementary
+920607	06-08	West Lake Middle
+920608	06-08	West Millbrook Middle
+920616	0K-05	Wilburn Elementary
+920618	0K-05	Wildwood Forest Elementary
+920620	0K-05	Wiley Elementary
+920624	0K-05	Willow Springs Elementary
+920626	0K-05	Yates Mill Elementary
+920628	0K-05	York Elementary
+920632	0K-05	Zebulon Elementary
+920636	06-08	Zebulon Middle
+920700	09-12	East Wake School of Health Science
+920701	09-12	East Wake School of Integrated Technolog
+920702	09-12	East Wake School of Arts Education and G
+920703	09-12	East Wake School of Engineering
+920LEA		Wake County Schools
+92B000	06-08	Exploris
+92D000	03-08	Magellan Charter
+92E000	PK-08	Sterling Montessori Academy
+92F000	0K-12	Franklin Academy
+92G000	0K-12	East Wake Academy
+92K000	09-12	Raleigh Charter High School
+92L000	0K-05	Torchlight Academy
+92M000	0K-08	PreEminent Charter
+92N000	0K-08	Quest Academy
+92P000	06-12	Southern Wake Academy
+92Q000	0K-05	Hope Elementary
+92R000	0K-08	Casa Esperanza Montessori
+92S000	0K-08	Endeavor Charter
+92T000	0K-06	Triangle Math and Science Academy
+930330	PK-05	Mariam Boyd Elementary
+930340	PK-05	Northside Elementary
+930344	PK-05	South Warren Elementary
+930348	PK-05	Vaughan Elementary
+930352	09-12	Warren County High
+930354	06-08	Warren County Middle
+930360	09-13	Warren Early College High
+930700	09-12	Warren New Tech High
+930LEA		Warren County Schools
+93A000	0K-12	Haliwa-Saponi Tribal School
+940306	PK-06	Creswell Elementary
+940308	07-12	Creswell High
+940314	PK-05	Pines Elementary
+940316	09-12	Plymouth High
+940328	06-08	Washington County Union
+940LEA		Washington County Schools
+94Z000	09-09	Northeast Regional School - Biotech/Agri
+950308	PK-08	Bethel Elementary
+950312	PK-08	Blowing Rock Elementary
+950316	PK-08	Cove Creek Elementary
+950320	PK-08	Green Valley Elementary
+950322	PK-08	Hardin Park Elementary
+950324	PK-08	Mabel Elementary
+950328	PK-08	Parkway Elementary
+950332	PK-08	Valle Crucis Elementary
+950336	09-12	Watauga High
+950LEA		Watauga County Schools
+95A000	0K-08	Two Rivers Community School
+960312	05-08	Brogden Middle
+960314	PK-04	Brogden Primary
+960316	PK-04	Carver Elementary
+960318	0K-04	Carver Heights Elementary
+960324	09-12	Charles B Aycock High
+960326	05-08	Dillard Middle
+960329	PK-05	Eastern Wayne Elementary
+960330	09-12	Eastern Wayne High
+960331	06-08	Eastern Wayne Middle
+960332	PK-12	Edgewood Cmty Developmental
+960334	PK-05	Fremont STARS Elementary
+960335	09-12	Goldsboro High
+960336	0K-08	Grantham
+960340	05-08	Greenwood Middle
+960344	PK-04	Meadow Lane Elementary
+960348	05-08	Mount Olive Middle
+960360	06-08	Norwayne Middle
+960370	PK-05	Rosewood Elementary
+960372	09-12	Rosewood High
+960374	06-08	Rosewood Middle
+960376	PK-04	School Street Elementary
+960380	09-12	Southern Wayne High
+960382	PK-05	Spring Creek Elementary
+960386	06-12	Spring Creek High
+960388	PK-05	Tommy's Road Elementary
+960390	PK-04	North Drive Elementary
+960450	PK-05	Northeast Elementary
+960454	0K-05	Northwest Elementary
+960488	06-12	Wayne Middle / High Academy
+960490	09-13	Wayne Early / Middle College High
+960700	06-13	Wayne School of Engineering
+960LEA		Wayne County Public Schools
+96C000	0K-04	Dillard Academy
+970308	PK-05	Boomer-Ferguson Elementary
+970310	PK-05	C B Eller Elementary
+970312	PK-05	C C Wright Elementary
+970315	06-08	Central Wilkes Middle
+970320	09-12	East Wilkes High
+970322	06-08	East Wilkes Middle
+970337	PK-05	Millers Creek Elementary
+970340	PK-05	Moravian Falls Elementary
+970344	PK-05	Mount Pleasant Elementary
+970348	PK-05	Mountain View Elementary
+970352	PK-05	Mulberry Elementary
+970356	09-12	North Wilkes High
+970358	06-08	North Wilkes Middle
+970360	PK-05	North Wilkesboro Elementary
+970368	PK-05	Roaring River Elementary
+970370	PK-05	Ronda-Clingman Elementary
+970376	PK-05	Traphill Elementary
+970388	09-12	West Wilkes High
+970389	06-08	West Wilkes Middle
+970390	09-12	Wilkes Central High
+970392	PK-05	Wilkesboro Elementary
+970393	09-13	Wilkes Early College High
+970LEA		Wilkes County Schools
+97D000	0K-08	Bridges Charter School
+980306	06-12	Milton M Daniels Learning Cntr
+980308	0K-05	B O Barnes Elementary
+980317	06-08	Charles H Darden Middle
+980318	09-12	Beddingfield High
+980320	0K-05	Elm City Elementary
+980324	06-08	Elm City Middle
+980336	09-12	Fike High
+980338	06-08	Forest Hills Middle
+980340	0K-05	Gardners Elementary
+980342	09-12	James Hunt High
+980344	0K-05	John W Jones Elementary
+980348	0K-05	Lee Woodard Elementary
+980352	0K-05	Lucama Elementary
+980356	PK-05	Margaret Hearne Elementary
+980357	0K-05	Vick Elementary
+980360	0K-05	New Hope Elementary
+980364	0K-05	Rock Ridge Elementary
+980380	06-08	Speight Middle
+980384	06-08	Springfield Middle
+980388	0K-05	Stantonsburg Elementary
+980390	06-08	Toisnot Middle
+980392	0K-05	Vinson-Bynum Elementary
+980396	0K-05	Wells Elementary
+980398	09-12	Wilson Early College Academy
+980400	0K-05	Winstead Elementary
+980LEA		Wilson County Schools
+98A000	0K-08	Sallie B Howard School
+990304	PK-06	Boonville Elementary
+990308	PK-06	Courtney Elementary
+990312	PK-06	East Bend Elementary
+990316	PK-06	Fall Creek Elementary
+990320	PK-06	Forbush Elementary
+990321	07-08	Forbush Middle
+990322	09-12	Forbush High
+990324	PK-06	Jonesville Elementary
+990325	07-08	Starmount Middle
+990326	09-12	Starmount High
+990328	PK-06	West Yadkin Elementary
+990332	09-13	Yadkin Early College
+990336	PK-06	Yadkinville Elementary
+990340	0K-12	Yadkin Success Academy
+990LEA		Yadkin County Schools
+995304	0K-05	Bald Creek Elementary
+995308	0K-05	Bee Log Elementary
+995312	0K-05	Burnsville Elementary
+995316	06-08	Cane River Middle
+995320	0K-05	Clearmont Elementary
+995324	06-08	East Yancey Middle
+995328	0K-05	Micaville Elementary
+995330	09-12	Mountain Heritage High
+995336	0K-05	South Toe Elementary
+995LEA		Yancey County Schools
+NC-SB1		
+NC-SB2		
+NC-SB3		
+NC-SB4		
+NC-SB5		
+NC-SB6		
+NC-SB7		
+NC-SB8		
+NC-SEA		State of North Carolina
