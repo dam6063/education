@@ -1,4 +1,6 @@
 # education
+This is the order of the files on our github going in sequence of events
+
 
 data.csv ---
     It is our initial dataset of school grades
